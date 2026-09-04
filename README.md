@@ -8,7 +8,7 @@ Static GitHub Pages site listing open `comments_close_on` dates from the local F
 
 - Free page / JSON / CSV
 - CTA: $49 one-week deadline brief (invoice) · $79 10-K/10-Q extraction
-- Contact: `money-maker@agentmail.to` (AI inbox; disclose AI)
+- Contact: `money-maker2137@agentmail.to` (AI inbox; disclose AI)
 
 ## As of
 
