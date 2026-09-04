@@ -1,0 +1,541 @@
+{
+  "generated_at": "2026-09-04T08:27:11.147116-05:00",
+  "timezone": "America/Chicago",
+  "as_of": "2026-09-04",
+  "source": "federalregister.gov JSON API (FDA/CMS/HHS watch archive)",
+  "disclaimer": "AI research desk digest. Not legal advice. Verify on federalregister.gov.",
+  "count": 59,
+  "deadlines": [
+    {
+      "close": "2026-09-04",
+      "document_number": "2026-15861",
+      "title": "Privacy Act of 1974; Matching Program",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15861/privacy-act-of-1974-matching-program",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "close": "2026-09-10",
+      "document_number": "2026-17409",
+      "title": "Hydroxymitragynine Above a Specified Threshold in Schedule I; Extension of Comment Period",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/26/2026-17409/hydroxymitragynine-above-a-specified-threshold-in-schedule-i-extension-of-comment-period",
+      "publication_date": "2026-08-26"
+    },
+    {
+      "close": "2026-09-16",
+      "document_number": "2026-16715",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Investigational New Drug Application Requirements",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16715/agency-information-collection-activities-proposed-collection-comment-request-investigational-new",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-09-16",
+      "document_number": "2026-16766",
+      "title": "Agency Information Collection Request; 30-Day Public Comment Request; Submission for Office of Management and Budget Review; Generic Clearance for the Trusted Exchange Framework and Common Agreement (TEFCA) Monitoring Activities",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-09-17",
+      "document_number": "2026-16793",
+      "title": "Submission for Office of Management and Budget Review; ACF-700 Tribal Annual Report",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16793/submission-for-office-of-management-and-budget-review-acf-700-tribal-annual-report",
+      "publication_date": "2026-08-18"
+    },
+    {
+      "close": "2026-09-17",
+      "document_number": "2026-17991",
+      "title": "Prospective Grant of an Exclusive Patent License: Development and Commercialization of Mifepristone and Analogues To Treat Hypercortisolism-Related Insulin Resistance Disorders",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17991/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-mifepristone",
+      "publication_date": "2026-09-02"
+    },
+    {
+      "close": "2026-09-18",
+      "document_number": "2026-16878",
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Professions Student Loan Program, Loans for Disadvantaged Students Program, Primary Care Loan Program, and Nursing Student Loan Program Administrative Requirements, OMB No. 0906-0088-Extension",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16878/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "publication_date": "2026-08-19"
+    },
+    {
+      "close": "2026-09-18",
+      "document_number": "2026-16942",
+      "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium DL-methionine Chelate",
+      "type": "Rule",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate",
+      "publication_date": "2026-08-19"
+    },
+    {
+      "close": "2026-09-18",
+      "document_number": "2026-16943",
+      "title": "International Association of Color Manufacturers; Filing of Color Additive Petition",
+      "type": "Proposed Rule",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition",
+      "publication_date": "2026-08-19"
+    },
+    {
+      "close": "2026-09-20",
+      "document_number": "2026-17250",
+      "title": "Request for Information: Categories Used in Federal Vaccine Recommendations and the Role of Shared Clinical Decision-Making",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17250/request-for-information-categories-used-in-federal-vaccine-recommendations-and-the-role-of-shared",
+      "publication_date": "2026-08-24"
+    },
+    {
+      "close": "2026-09-21",
+      "document_number": "2026-17009",
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Black Lung Clinics Program Performance Measures",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17009/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "publication_date": "2026-08-20"
+    },
+    {
+      "close": "2026-09-21",
+      "document_number": "2026-17164",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17164/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-08-21"
+    },
+    {
+      "close": "2026-09-22",
+      "document_number": "2026-15048",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "close": "2026-09-28",
+      "document_number": "2026-17545",
+      "title": "Submission for Office of Management and Budget Review; National and State Survey of Child and Adolescent Well-Being (NSSCAW): Site Recruitment and Baseline Data Collection",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-for-office-of-management-and-budget-review-national-and-state-survey-of-child-and",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-09-28",
+      "document_number": "2026-17601",
+      "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Reporting Associated With Animal Drug and Animal Generic Drug User Fees",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-09-28",
+      "document_number": "2026-17603",
+      "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Importation of Prescription Drugs",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-09-30",
+      "document_number": "2026-17677",
+      "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Potential Tobacco Product Violations Reporting Form",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+      "publication_date": "2026-08-31"
+    },
+    {
+      "close": "2026-09-30",
+      "document_number": "2026-17745",
+      "title": "Submission for Office of Management and Budget Review; Head Start State Collaboration Office Grant Application",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-for-office-of-management-and-budget-review-head-start-state-collaboration-office-grant",
+      "publication_date": "2026-08-31"
+    },
+    {
+      "close": "2026-10-02",
+      "document_number": "2026-17907",
+      "title": "Privacy Act of 1974; Matching Program",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17907/privacy-act-of-1974-matching-program",
+      "publication_date": "2026-09-02"
+    },
+    {
+      "close": "2026-10-02",
+      "document_number": "2026-17970",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request",
+      "publication_date": "2026-09-02"
+    },
+    {
+      "close": "2026-10-02",
+      "document_number": "2026-17982",
+      "title": "Submission for Office of Management and Budget Review; TANF Contingency Fund Application",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application",
+      "publication_date": "2026-09-02"
+    },
+    {
+      "close": "2026-10-05",
+      "document_number": "2026-18060",
+      "title": "Agency Information Collection Request. 30-Day Public Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18060/agency-information-collection-request-30-day-public-comment-request",
+      "publication_date": "2026-09-03"
+    },
+    {
+      "close": "2026-10-05",
+      "document_number": "2026-18115",
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Rural Communities Opioid Response Program Performance Measures, OMB No. 0906-XXXX-New",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment",
+      "publication_date": "2026-09-04"
+    },
+    {
+      "close": "2026-10-05",
+      "document_number": "2026-18167",
+      "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
+      "type": "Proposed Rule",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals",
+      "publication_date": "2026-09-04"
+    },
+    {
+      "close": "2026-10-13",
+      "document_number": "2026-16368",
+      "title": "Medicare Program; Regulatory Alignment for Predictable and Immediate Device (RAPID) Coverage Pathway",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway",
+      "publication_date": "2026-08-11"
+    },
+    {
+      "close": "2026-10-13",
+      "document_number": "2026-16386",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/12/2026-16386/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-08-12"
+    },
+    {
+      "close": "2026-10-13",
+      "document_number": "2026-16455",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/13/2026-16455/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "close": "2026-10-13",
+      "document_number": "2026-16638",
+      "title": "Container Closure Systems for Human Drugs and Biological Products; Draft Guidance for Industry; Availability",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-closure-systems-for-human-drugs-and-biological-products-draft-guidance-for-industry",
+      "publication_date": "2026-08-14"
+    },
+    {
+      "close": "2026-10-16",
+      "document_number": "2026-16712",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Imports and Electronic Import Entries",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-information-collection-activities-proposed-collection-comment-request-imports-and-electronic",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-10-16",
+      "document_number": "2026-16713",
+      "title": "Determination of Regulatory Review Period for Purposes of Patent Extension; BIZENGRI",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16713/determination-of-regulatory-review-period-for-purposes-of-patent-extension-bizengri",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-10-16",
+      "document_number": "2026-16714",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Third Party Disclosure and Recordkeeping Requirements for Reportable Food",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-information-collection-activities-proposed-collection-comment-request-third-party-disclosure",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-10-16",
+      "document_number": "2026-16728",
+      "title": "Gastroenterology-Urology Devices; Reclassification of Diagnostic Endoscopic Light Source Systems To Be Renamed Cystoscopic Systems Intended as an Aid for Detection of Bladder Cancer",
+      "type": "Proposed Rule",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-10-16",
+      "document_number": "2026-16729",
+      "title": "Medical Devices; Classification of Accessories Distinct From Other Devices; Proposed List of Accessories Suitable for Class I; Request for Comments",
+      "type": "Proposed Rule",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of",
+      "publication_date": "2026-08-17"
+    },
+    {
+      "close": "2026-10-17",
+      "document_number": "2026-16353",
+      "title": "Reauthorization of the Generic Drug User Fee Amendments; Public Meeting; Request for Comments",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorization-of-the-generic-drug-user-fee-amendments-public-meeting-request-for-comments",
+      "publication_date": "2026-08-11"
+    },
+    {
+      "close": "2026-10-19",
+      "document_number": "2026-16837",
+      "title": "Determining Whether To Submit an ANDA or a 505(b)(2) Application; Draft Guidance for Industry; Availability",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-whether-to-submit-an-anda-or-a-505b2-application-draft-guidance-for-industry",
+      "publication_date": "2026-08-18"
+    },
+    {
+      "close": "2026-10-19",
+      "document_number": "2026-16871",
+      "title": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Rural Maternity and Obstetrics Management Strategies Program Data Collection, OMB No. 0915-0394-Revision",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-information-collection-activities-proposed-collection-public-comment-request-information",
+      "publication_date": "2026-08-19"
+    },
+    {
+      "close": "2026-10-19",
+      "document_number": "2026-16912",
+      "title": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Voluntary Partner Survey on HRSA Customer Service, OMB No. 0906-0084-Revision",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-information-collection-activities-proposed-collection-public-comment-request-information",
+      "publication_date": "2026-08-19"
+    },
+    {
+      "close": "2026-10-19",
+      "document_number": "2026-17037",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-data-collection-submitted-for-public-comment-and-recommendations",
+      "publication_date": "2026-08-20"
+    },
+    {
+      "close": "2026-10-19",
+      "document_number": "2026-17040",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-data-collection-submitted-for-public-comment-and-recommendations",
+      "publication_date": "2026-08-20"
+    },
+    {
+      "close": "2026-10-20",
+      "document_number": "2026-17112",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17112/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-08-21"
+    },
+    {
+      "close": "2026-10-20",
+      "document_number": "2026-17128",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17128/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-08-21"
+    },
+    {
+      "close": "2026-10-20",
+      "document_number": "2026-17190",
+      "title": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Faculty Loan Repayment Program, OMB No. 0906-0082-Revision",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-information-collection-activities-proposed-collection-public-comment-request-information",
+      "publication_date": "2026-08-21"
+    },
+    {
+      "close": "2026-10-23",
+      "document_number": "2026-17222",
+      "title": "Product-Specific Guidances; Draft and Revised Draft Guidances for Industry; Availability",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-specific-guidances-draft-and-revised-draft-guidances-for-industry-availability",
+      "publication_date": "2026-08-24"
+    },
+    {
+      "close": "2026-10-26",
+      "document_number": "2026-17377",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Allegations of Regulatory Misconduct Voluntarily Submitted to the Center for Devices and Radiological Health",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-information-collection-activities-proposed-collection-comment-request-allegations-of",
+      "publication_date": "2026-08-26"
+    },
+    {
+      "close": "2026-10-26",
+      "document_number": "2026-17484",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/27/2026-17484/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "close": "2026-10-27",
+      "document_number": "2026-17598",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Focus Groups and Interviews as Used by the Food and Drug Administration",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-information-collection-activities-proposed-collection-comment-request-focus-groups-and",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-10-27",
+      "document_number": "2026-17599",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Food Canning Establishment Registration, Process Filing, and Recordkeeping for Acidified Foods and Thermally Processed Low-Acid Foods in Hermetically Sealed Containers",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-information-collection-activities-proposed-collection-comment-request-food-canning",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-10-27",
+      "document_number": "2026-17605",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Qualitative Feedback on Agency Service Delivery",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-information-collection-activities-proposed-collection-comment-request-qualitative-feedback-on",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-10-27",
+      "document_number": "2026-17624",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17624/proposed-data-collection-submitted-for-public-comment-and-recommendations",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-10-27",
+      "document_number": "2026-17625",
+      "title": "Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: The National Health Service Corps Loan Repayment Programs OMB No. 0915-0127-Revision",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-information-collection-activities-proposed-collection-public-comment-request-information",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-10-30",
+      "document_number": "2026-17675",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Medical Devices; Reports of Removals and Corrections",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-information-collection-activities-proposed-collection-comment-request-medical-devices-reports",
+      "publication_date": "2026-08-31"
+    },
+    {
+      "close": "2026-10-30",
+      "document_number": "2026-17676",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Registration of Human Drug Compounding Outsourcing Facilities Under the Federal Food, Drug, and Cosmetic Act and Associated Fees",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-information-collection-activities-proposed-collection-comment-request-registration-of-human",
+      "publication_date": "2026-08-31"
+    },
+    {
+      "close": "2026-11-02",
+      "document_number": "2026-17856",
+      "title": "Emergency Office of Management and Budget Review and Public Comment: Questionnaire for the Refugee Outreach and Well-Being Initiative",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-office-of-management-and-budget-review-and-public-comment-questionnaire-for-the-refugee",
+      "publication_date": "2026-09-01"
+    },
+    {
+      "close": "2026-11-02",
+      "document_number": "2026-17875",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17875/agency-information-collection-activities-proposed-collection-comment-request",
+      "publication_date": "2026-09-01"
+    },
+    {
+      "close": "2026-11-03",
+      "document_number": "2026-18133",
+      "title": "Advancing Development of Botanical Drug Products; Request for Information",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-development-of-botanical-drug-products-request-for-information",
+      "publication_date": "2026-09-04"
+    },
+    {
+      "close": "2026-11-18",
+      "document_number": "2026-16960",
+      "title": "Potency Assessment of Active Immunotherapy Products; Draft Guidance for Industry; Availability",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-assessment-of-active-immunotherapy-products-draft-guidance-for-industry-availability",
+      "publication_date": "2026-08-20"
+    },
+    {
+      "close": "2026-11-27",
+      "document_number": "2026-17580",
+      "title": "Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in Federally-Registered Facilities; Draft Guidance for Industry; Availability; Agency Information Collection Activities; Proposed Collection; Comment Request",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "close": "2026-12-01",
+      "document_number": "2026-17961",
+      "title": "Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design, Data Analysis, and Impact on Dosage; Draft Guidance for Industry; Availability",
+      "type": "Notice",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokinetics-in-patients-with-impaired-hepatic-function-study-design-data-analysis-and-impact-on",
+      "publication_date": "2026-09-02"
+    },
+    {
+      "close": "2026-12-09",
+      "document_number": "2026-16296",
+      "title": "Substances Generally Recognized as Safe",
+      "type": "Proposed Rule",
+      "agency": "HHS",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-generally-recognized-as-safe",
+      "publication_date": "2026-08-11"
+    }
+  ]
+}
