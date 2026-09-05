@@ -12,7 +12,7 @@ Static GitHub Pages site listing open `comments_close_on` dates from the local F
 
 ## As of
 
-2026-09-04 America/Chicago · 59 open deadlines
+2026-09-05 America/Chicago · 60 open deadlines
 
 ## Files
 
