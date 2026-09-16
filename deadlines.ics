@@ -6,634 +6,658 @@ METHOD:PUBLISH
 X-WR-CALNAME:FDA/CMS/HHS FR comment deadlines
 BEGIN:VEVENT
 UID:2026-16715@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260916
-SUMMARY:FR comments close: 2026-16715
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Investigational New Drug Application Requirements — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16715/agency-information-collection-activities-proposed-collection-comment-request-investigational-new
+SUMMARY:FR close 2026-16715: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Investigational New Drug Application Requirements https://www.federalregister.gov/documents/2026/08/17/2026-16715/agency-information-collection-activities-proposed-collection-comment-request-investigational-new
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16715/agency-information-collection-activities-proposed-collection-comment-request-investigational-new
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16766@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260916
-SUMMARY:FR comments close: 2026-16766
-DESCRIPTION:Agency Information Collection Request; 30-Day Public Comment Request; Submission for Office of Management and Budget Review; Generic Clearance for the Trusted Exchange Framework an — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of
+SUMMARY:FR close 2026-16766: Agency Information Collection Request\; 30-Day Public Comment Request\; Submission
+DESCRIPTION:Agency Information Collection Request\; 30-Day Public Comment Request\; Submission for Office of Management and Budget Review\; Generic Clearance for the Trusted Exchange Framework and Common Agreement ( https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16793@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260917
-SUMMARY:FR comments close: 2026-16793
-DESCRIPTION:Submission for Office of Management and Budget Review; ACF-700 Tribal Annual Report — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/18/2026-16793/submission-for-office-of-management-and-budget-review-acf-700-tribal-annual-report
+SUMMARY:FR close 2026-16793: Submission for Office of Management and Budget Review\; ACF-700 Tribal Annual Rep
+DESCRIPTION:Submission for Office of Management and Budget Review\; ACF-700 Tribal Annual Report https://www.federalregister.gov/documents/2026/08/18/2026-16793/submission-for-office-of-management-and-budget-review-acf-700-tribal-annual-report
 URL:https://www.federalregister.gov/documents/2026/08/18/2026-16793/submission-for-office-of-management-and-budget-review-acf-700-tribal-annual-report
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17991@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260917
-SUMMARY:FR comments close: 2026-17991
-DESCRIPTION:Prospective Grant of an Exclusive Patent License: Development and Commercialization of Mifepristone and Analogues To Treat Hypercortisolism-Related Insulin Resistance Disorders — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17991/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-mifepristone
+SUMMARY:FR close 2026-17991: Prospective Grant of an Exclusive Patent License: Development and Commercializat
+DESCRIPTION:Prospective Grant of an Exclusive Patent License: Development and Commercialization of Mifepristone and Analogues To Treat Hypercortisolism-Related Insulin Resistance Disorders https://www.federalregister.gov/documents/2026/09/02/2026-17991/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-mifepristone
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17991/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-mifepristone
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-14583@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260918
-SUMMARY:FR comments close: 2026-14583
-DESCRIPTION:Medicare Program; Inflation Reduction Act of 2022 (IRA) Medicare Drug Price Negotiation Program Draft Guidance; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft
+SUMMARY:FR close 2026-14583: Medicare Program\; Inflation Reduction Act of 2022 (IRA) Medicare Drug Price Nego
+DESCRIPTION:Medicare Program\; Inflation Reduction Act of 2022 (IRA) Medicare Drug Price Negotiation Program Draft Guidance\; Comment Request https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft
 URL:https://www.federalregister.gov/documents/2026/07/20/2026-14583/medicare-program-inflation-reduction-act-of-2022-ira-medicare-drug-price-negotiation-program-draft
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16878@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260918
-SUMMARY:FR comments close: 2026-16878
-DESCRIPTION:Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Professions Student Loan Program, Loans for Disadvantaged Studen — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16878/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
+SUMMARY:FR close 2026-16878: Agency Information Collection Activities: Submission to OMB for Review and Appro
+DESCRIPTION:Agency Information Collection Activities: Submission to OMB for Review and Approval\; Public Comment Request\; Health Professions Student Loan Program\, Loans for Disadvantaged Students Program\, Primary  https://www.federalregister.gov/documents/2026/08/19/2026-16878/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16878/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16942@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260918
-SUMMARY:FR comments close: 2026-16942
-DESCRIPTION:Food Additives Permitted in Feed and Drinking Water of Animals; Chromium DL-methionine Chelate — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate
+SUMMARY:FR close 2026-16942: Food Additives Permitted in Feed and Drinking Water of Animals\; Chromium DL-meth
+DESCRIPTION:Food Additives Permitted in Feed and Drinking Water of Animals\; Chromium DL-methionine Chelate https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16943@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260918
-SUMMARY:FR comments close: 2026-16943
-DESCRIPTION:International Association of Color Manufacturers; Filing of Color Additive Petition — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition
+SUMMARY:FR close 2026-16943: International Association of Color Manufacturers\; Filing of Color Additive Petit
+DESCRIPTION:International Association of Color Manufacturers\; Filing of Color Additive Petition https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17250@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260920
-SUMMARY:FR comments close: 2026-17250
-DESCRIPTION:Request for Information: Categories Used in Federal Vaccine Recommendations and the Role of Shared Clinical Decision-Making — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/24/2026-17250/request-for-information-categories-used-in-federal-vaccine-recommendations-and-the-role-of-shared
+SUMMARY:FR close 2026-17250: Request for Information: Categories Used in Federal Vaccine Recommendations and 
+DESCRIPTION:Request for Information: Categories Used in Federal Vaccine Recommendations and the Role of Shared Clinical Decision-Making https://www.federalregister.gov/documents/2026/08/24/2026-17250/request-for-information-categories-used-in-federal-vaccine-recommendations-and-the-role-of-shared
 URL:https://www.federalregister.gov/documents/2026/08/24/2026-17250/request-for-information-categories-used-in-federal-vaccine-recommendations-and-the-role-of-shared
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-14699@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260921
-SUMMARY:FR comments close: 2026-14699
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-14699: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-14897@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260921
-SUMMARY:FR comments close: 2026-14897
-DESCRIPTION:Medicaid Program; Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/07/23/2026-14897/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes
+SUMMARY:FR close 2026-14897: Medicaid Program\; Amending the Indirect Hold Harmless Threshold of Health Care-R
+DESCRIPTION:Medicaid Program\; Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes https://www.federalregister.gov/documents/2026/07/23/2026-14897/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes
 URL:https://www.federalregister.gov/documents/2026/07/23/2026-14897/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17009@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260921
-SUMMARY:FR comments close: 2026-17009
-DESCRIPTION:Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Black Lung Clinics Program Performance Measures — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/20/2026-17009/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
+SUMMARY:FR close 2026-17009: Agency Information Collection Activities: Submission to OMB for Review and Appro
+DESCRIPTION:Agency Information Collection Activities: Submission to OMB for Review and Approval\; Public Comment Request\; Black Lung Clinics Program Performance Measures https://www.federalregister.gov/documents/2026/08/20/2026-17009/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 URL:https://www.federalregister.gov/documents/2026/08/20/2026-17009/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17164@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260921
-SUMMARY:FR comments close: 2026-17164
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/21/2026-17164/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-17164: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/08/21/2026-17164/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/08/21/2026-17164/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-15048@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260922
-SUMMARY:FR comments close: 2026-15048
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-15048: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17545@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260928
-SUMMARY:FR comments close: 2026-17545
-DESCRIPTION:Submission for Office of Management and Budget Review; National and State Survey of Child and Adolescent Well-Being (NSSCAW): Site Recruitment and Baseline Data Collection — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-for-office-of-management-and-budget-review-national-and-state-survey-of-child-and
+SUMMARY:FR close 2026-17545: Submission for Office of Management and Budget Review\; National and State Survey
+DESCRIPTION:Submission for Office of Management and Budget Review\; National and State Survey of Child and Adolescent Well-Being (NSSCAW): Site Recruitment and Baseline Data Collection https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-for-office-of-management-and-budget-review-national-and-state-survey-of-child-and
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-for-office-of-management-and-budget-review-national-and-state-survey-of-child-and
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17601@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260928
-SUMMARY:FR comments close: 2026-17601
-DESCRIPTION:Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Reporting Associated With Animal Drug and Animal Generic Drug User — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+SUMMARY:FR close 2026-17601: Agency Information Collection Activities\; Submission for Office of Management an
+DESCRIPTION:Agency Information Collection Activities\; Submission for Office of Management and Budget Review\; Comment Request\; Reporting Associated With Animal Drug and Animal Generic Drug User Fees https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17603@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260928
-SUMMARY:FR comments close: 2026-17603
-DESCRIPTION:Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Importation of Prescription Drugs — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+SUMMARY:FR close 2026-17603: Agency Information Collection Activities\; Submission for Office of Management an
+DESCRIPTION:Agency Information Collection Activities\; Submission for Office of Management and Budget Review\; Comment Request\; Importation of Prescription Drugs https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17677@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20260930
-SUMMARY:FR comments close: 2026-17677
-DESCRIPTION:Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Potential Tobacco Product Violations Reporting Form — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+SUMMARY:FR close 2026-17677: Agency Information Collection Activities\; Submission for Office of Management an
+DESCRIPTION:Agency Information Collection Activities\; Submission for Office of Management and Budget Review\; Comment Request\; Potential Tobacco Product Violations Reporting Form https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17745@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20260930
-SUMMARY:FR comments close: 2026-17745
-DESCRIPTION:Submission for Office of Management and Budget Review; Head Start State Collaboration Office Grant Application — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-for-office-of-management-and-budget-review-head-start-state-collaboration-office-grant
+SUMMARY:FR close 2026-17745: Submission for Office of Management and Budget Review\; Head Start State Collabor
+DESCRIPTION:Submission for Office of Management and Budget Review\; Head Start State Collaboration Office Grant Application https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-for-office-of-management-and-budget-review-head-start-state-collaboration-office-grant
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-for-office-of-management-and-budget-review-head-start-state-collaboration-office-grant
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18877@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20260930
-SUMMARY:FR comments close: 2026-18877
-DESCRIPTION:Prospective Grant of an Exclusive Patent License: Development and Commercialization of Engineered Cell Therapies for the Treatment of HPV 16 E6-Expressing Cancers — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/15/2026-18877/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-engineered
+SUMMARY:FR close 2026-18877: Prospective Grant of an Exclusive Patent License: Development and Commercializat
+DESCRIPTION:Prospective Grant of an Exclusive Patent License: Development and Commercialization of Engineered Cell Therapies for the Treatment of HPV 16 E6-Expressing Cancers https://www.federalregister.gov/documents/2026/09/15/2026-18877/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-engineered
 URL:https://www.federalregister.gov/documents/2026/09/15/2026-18877/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-engineered
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-18987@fr-deadline-board
+DTSTAMP:20260916T130000Z
+DTSTART;VALUE=DATE:20261001
+SUMMARY:FR close 2026-18987: Opportunity To Co-Sponsor Events With the Office of Research Integrity
+DESCRIPTION:Opportunity To Co-Sponsor Events With the Office of Research Integrity https://www.federalregister.gov/documents/2026/09/16/2026-18987/opportunity-to-co-sponsor-events-with-the-office-of-research-integrity
+URL:https://www.federalregister.gov/documents/2026/09/16/2026-18987/opportunity-to-co-sponsor-events-with-the-office-of-research-integrity
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-17907@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261002
-SUMMARY:FR comments close: 2026-17907
-DESCRIPTION:Privacy Act of 1974; Matching Program — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17907/privacy-act-of-1974-matching-program
+SUMMARY:FR close 2026-17907: Privacy Act of 1974\; Matching Program
+DESCRIPTION:Privacy Act of 1974\; Matching Program https://www.federalregister.gov/documents/2026/09/02/2026-17907/privacy-act-of-1974-matching-program
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17907/privacy-act-of-1974-matching-program
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17970@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261002
-SUMMARY:FR comments close: 2026-17970
-DESCRIPTION:Agency Information Collection Activities: Submission for OMB Review; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request
+SUMMARY:FR close 2026-17970: Agency Information Collection Activities: Submission for OMB Review\; Comment Req
+DESCRIPTION:Agency Information Collection Activities: Submission for OMB Review\; Comment Request https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17982@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261002
-SUMMARY:FR comments close: 2026-17982
-DESCRIPTION:Submission for Office of Management and Budget Review; TANF Contingency Fund Application — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application
+SUMMARY:FR close 2026-17982: Submission for Office of Management and Budget Review\; TANF Contingency Fund App
+DESCRIPTION:Submission for Office of Management and Budget Review\; TANF Contingency Fund Application https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18060@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261005
-SUMMARY:FR comments close: 2026-18060
-DESCRIPTION:Agency Information Collection Request. 30-Day Public Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/03/2026-18060/agency-information-collection-request-30-day-public-comment-request
+SUMMARY:FR close 2026-18060: Agency Information Collection Request. 30-Day Public Comment Request
+DESCRIPTION:Agency Information Collection Request. 30-Day Public Comment Request https://www.federalregister.gov/documents/2026/09/03/2026-18060/agency-information-collection-request-30-day-public-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/03/2026-18060/agency-information-collection-request-30-day-public-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18115@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261005
-SUMMARY:FR comments close: 2026-18115
-DESCRIPTION:Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Rural Communities Opioid Response — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
+SUMMARY:FR close 2026-18115: Agency Information Collection Activities: Submission to OMB for Review and Appro
+DESCRIPTION:Agency Information Collection Activities: Submission to OMB for Review and Approval\; Public Comment Request\; Information Collection Request Title: Rural Communities Opioid Response Program Performance https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 URL:https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18167@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261005
-SUMMARY:FR comments close: 2026-18167
-DESCRIPTION:Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals
+SUMMARY:FR close 2026-18167: Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals
+DESCRIPTION:Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals
 URL:https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16368@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:FR comments close: 2026-16368
-DESCRIPTION:Medicare Program; Regulatory Alignment for Predictable and Immediate Device (RAPID) Coverage Pathway — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway
+SUMMARY:FR close 2026-16368: Medicare Program\; Regulatory Alignment for Predictable and Immediate Device (RAP
+DESCRIPTION:Medicare Program\; Regulatory Alignment for Predictable and Immediate Device (RAPID) Coverage Pathway https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway
 URL:https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16386@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:FR comments close: 2026-16386
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/12/2026-16386/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-16386: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/08/12/2026-16386/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/08/12/2026-16386/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16455@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:FR comments close: 2026-16455
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/13/2026-16455/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-16455: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/08/13/2026-16455/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/08/13/2026-16455/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16638@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:FR comments close: 2026-16638
-DESCRIPTION:Container Closure Systems for Human Drugs and Biological Products; Draft Guidance for Industry; Availability — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-closure-systems-for-human-drugs-and-biological-products-draft-guidance-for-industry
+SUMMARY:FR close 2026-16638: Container Closure Systems for Human Drugs and Biological Products\; Draft Guidanc
+DESCRIPTION:Container Closure Systems for Human Drugs and Biological Products\; Draft Guidance for Industry\; Availability https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-closure-systems-for-human-drugs-and-biological-products-draft-guidance-for-industry
 URL:https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-closure-systems-for-human-drugs-and-biological-products-draft-guidance-for-industry
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18528@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:FR comments close: 2026-18528
-DESCRIPTION:Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Generic Clearance for Qualitative Data To Support Social and Behav — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18528/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+SUMMARY:FR close 2026-18528: Agency Information Collection Activities\; Submission for Office of Management an
+DESCRIPTION:Agency Information Collection Activities\; Submission for Office of Management and Budget Review\; Comment Request\; Generic Clearance for Qualitative Data To Support Social and Behavioral Research for F https://www.federalregister.gov/documents/2026/09/11/2026-18528/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18528/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18611@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-SUMMARY:FR comments close: 2026-18611
-DESCRIPTION:Agency Information Collection Activities: Submission for OMB Review; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18611/agency-information-collection-activities-submission-for-omb-review-comment-request
+SUMMARY:FR close 2026-18611: Agency Information Collection Activities: Submission for OMB Review\; Comment Req
+DESCRIPTION:Agency Information Collection Activities: Submission for OMB Review\; Comment Request https://www.federalregister.gov/documents/2026/09/11/2026-18611/agency-information-collection-activities-submission-for-omb-review-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18611/agency-information-collection-activities-submission-for-omb-review-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18691@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261014
-SUMMARY:FR comments close: 2026-18691
-DESCRIPTION:Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Customer/Partner Customer Service Satisfaction Surveys — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18691/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+SUMMARY:FR close 2026-18691: Agency Information Collection Activities\; Submission for Office of Management an
+DESCRIPTION:Agency Information Collection Activities\; Submission for Office of Management and Budget Review\; Comment Request\; Customer/Partner Customer Service Satisfaction Surveys https://www.federalregister.gov/documents/2026/09/14/2026-18691/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18691/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18727@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261014
-SUMMARY:FR comments close: 2026-18727
-DESCRIPTION:Solicitation for Nominations To Serve on the Family Caregiving Advisory Council — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18727/solicitation-for-nominations-to-serve-on-the-family-caregiving-advisory-council
+SUMMARY:FR close 2026-18727: Solicitation for Nominations To Serve on the Family Caregiving Advisory Council
+DESCRIPTION:Solicitation for Nominations To Serve on the Family Caregiving Advisory Council https://www.federalregister.gov/documents/2026/09/14/2026-18727/solicitation-for-nominations-to-serve-on-the-family-caregiving-advisory-council
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18727/solicitation-for-nominations-to-serve-on-the-family-caregiving-advisory-council
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18728@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261014
-SUMMARY:FR comments close: 2026-18728
-DESCRIPTION:Solicitation for Nominations To Serve on the Advisory Council To Support Grandparents Raising Grandchildren — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18728/solicitation-for-nominations-to-serve-on-the-advisory-council-to-support-grandparents-raising
+SUMMARY:FR close 2026-18728: Solicitation for Nominations To Serve on the Advisory Council To Support Grandpa
+DESCRIPTION:Solicitation for Nominations To Serve on the Advisory Council To Support Grandparents Raising Grandchildren https://www.federalregister.gov/documents/2026/09/14/2026-18728/solicitation-for-nominations-to-serve-on-the-advisory-council-to-support-grandparents-raising
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18728/solicitation-for-nominations-to-serve-on-the-advisory-council-to-support-grandparents-raising
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16712@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:FR comments close: 2026-16712
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Imports and Electronic Import Entries — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-information-collection-activities-proposed-collection-comment-request-imports-and-electronic
+SUMMARY:FR close 2026-16712: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Imports and Electronic Import Entries https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-information-collection-activities-proposed-collection-comment-request-imports-and-electronic
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-information-collection-activities-proposed-collection-comment-request-imports-and-electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16713@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:FR comments close: 2026-16713
-DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension; BIZENGRI — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16713/determination-of-regulatory-review-period-for-purposes-of-patent-extension-bizengri
+SUMMARY:FR close 2026-16713: Determination of Regulatory Review Period for Purposes of Patent Extension\; BIZE
+DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension\; BIZENGRI https://www.federalregister.gov/documents/2026/08/17/2026-16713/determination-of-regulatory-review-period-for-purposes-of-patent-extension-bizengri
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16713/determination-of-regulatory-review-period-for-purposes-of-patent-extension-bizengri
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16714@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:FR comments close: 2026-16714
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Third Party Disclosure and Recordkeeping Requirements for Reportable Food — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-information-collection-activities-proposed-collection-comment-request-third-party-disclosure
+SUMMARY:FR close 2026-16714: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Third Party Disclosure and Recordkeeping Requirements for Reportable Food https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-information-collection-activities-proposed-collection-comment-request-third-party-disclosure
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-information-collection-activities-proposed-collection-comment-request-third-party-disclosure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16728@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:FR comments close: 2026-16728
-DESCRIPTION:Gastroenterology-Urology Devices; Reclassification of Diagnostic Endoscopic Light Source Systems To Be Renamed Cystoscopic Systems Intended as an Aid for Detection of Bladder Cance — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to
+SUMMARY:FR close 2026-16728: Gastroenterology-Urology Devices\; Reclassification of Diagnostic Endoscopic Ligh
+DESCRIPTION:Gastroenterology-Urology Devices\; Reclassification of Diagnostic Endoscopic Light Source Systems To Be Renamed Cystoscopic Systems Intended as an Aid for Detection of Bladder Cancer https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16729@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-SUMMARY:FR comments close: 2026-16729
-DESCRIPTION:Medical Devices; Classification of Accessories Distinct From Other Devices; Proposed List of Accessories Suitable for Class I; Request for Comments — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of
+SUMMARY:FR close 2026-16729: Medical Devices\; Classification of Accessories Distinct From Other Devices\; Prop
+DESCRIPTION:Medical Devices\; Classification of Accessories Distinct From Other Devices\; Proposed List of Accessories Suitable for Class I\; Request for Comments https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-18946@fr-deadline-board
+DTSTAMP:20260916T130000Z
+DTSTART;VALUE=DATE:20261016
+SUMMARY:FR close 2026-18946: Agency Information Collection Activities\; Submission for Office of Management an
+DESCRIPTION:Agency Information Collection Activities\; Submission for Office of Management and Budget Review\; Comment Request\; Biological Products: Reporting of Biological Product Deviations and Human Cells\, Tissu https://www.federalregister.gov/documents/2026/09/16/2026-18946/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+URL:https://www.federalregister.gov/documents/2026/09/16/2026-18946/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-18950@fr-deadline-board
+DTSTAMP:20260916T130000Z
+DTSTART;VALUE=DATE:20261016
+SUMMARY:FR close 2026-18950: Agency Information Collection Request\; 30-Day Public Comment Request
+DESCRIPTION:Agency Information Collection Request\; 30-Day Public Comment Request https://www.federalregister.gov/documents/2026/09/16/2026-18950/agency-information-collection-request-30-day-public-comment-request
+URL:https://www.federalregister.gov/documents/2026/09/16/2026-18950/agency-information-collection-request-30-day-public-comment-request
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-16353@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261017
-SUMMARY:FR comments close: 2026-16353
-DESCRIPTION:Reauthorization of the Generic Drug User Fee Amendments; Public Meeting; Request for Comments — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorization-of-the-generic-drug-user-fee-amendments-public-meeting-request-for-comments
+SUMMARY:FR close 2026-16353: Reauthorization of the Generic Drug User Fee Amendments\; Public Meeting\; Request
+DESCRIPTION:Reauthorization of the Generic Drug User Fee Amendments\; Public Meeting\; Request for Comments https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorization-of-the-generic-drug-user-fee-amendments-public-meeting-request-for-comments
 URL:https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorization-of-the-generic-drug-user-fee-amendments-public-meeting-request-for-comments
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16837@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:FR comments close: 2026-16837
-DESCRIPTION:Determining Whether To Submit an ANDA or a 505(b)(2) Application; Draft Guidance for Industry; Availability — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-whether-to-submit-an-anda-or-a-505b2-application-draft-guidance-for-industry
+SUMMARY:FR close 2026-16837: Determining Whether To Submit an ANDA or a 505(b)(2) Application\; Draft Guidance
+DESCRIPTION:Determining Whether To Submit an ANDA or a 505(b)(2) Application\; Draft Guidance for Industry\; Availability https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-whether-to-submit-an-anda-or-a-505b2-application-draft-guidance-for-industry
 URL:https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-whether-to-submit-an-anda-or-a-505b2-application-draft-guidance-for-industry
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16871@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:FR comments close: 2026-16871
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Rural Maternity and Obstetrics Management Strategies Pr — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-information-collection-activities-proposed-collection-public-comment-request-information
+SUMMARY:FR close 2026-16871: Agency Information Collection Activities: Proposed Collection: Public Comment Re
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Information Collection Request Title: Rural Maternity and Obstetrics Management Strategies Program Data Collectio https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16912@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:FR comments close: 2026-16912
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Voluntary Partner Survey on HRSA Customer Service, OMB  — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-information-collection-activities-proposed-collection-public-comment-request-information
+SUMMARY:FR close 2026-16912: Agency Information Collection Activities: Proposed Collection: Public Comment Re
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Information Collection Request Title: Voluntary Partner Survey on HRSA Customer Service\, OMB No. 0906-0084-Revisi https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17037@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:FR comments close: 2026-17037
-DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-data-collection-submitted-for-public-comment-and-recommendations
+SUMMARY:FR close 2026-17037: Proposed Data Collection Submitted for Public Comment and Recommendations
+DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-data-collection-submitted-for-public-comment-and-recommendations
 URL:https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-data-collection-submitted-for-public-comment-and-recommendations
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17040@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:FR comments close: 2026-17040
-DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-data-collection-submitted-for-public-comment-and-recommendations
+SUMMARY:FR close 2026-17040: Proposed Data Collection Submitted for Public Comment and Recommendations
+DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-data-collection-submitted-for-public-comment-and-recommendations
 URL:https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-data-collection-submitted-for-public-comment-and-recommendations
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18646@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-SUMMARY:FR comments close: 2026-18646
-DESCRIPTION:Draft NIH Biosafety Policy for Research Involving Biohazards — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18646/draft-nih-biosafety-policy-for-research-involving-biohazards
+SUMMARY:FR close 2026-18646: Draft NIH Biosafety Policy for Research Involving Biohazards
+DESCRIPTION:Draft NIH Biosafety Policy for Research Involving Biohazards https://www.federalregister.gov/documents/2026/09/14/2026-18646/draft-nih-biosafety-policy-for-research-involving-biohazards
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18646/draft-nih-biosafety-policy-for-research-involving-biohazards
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17112@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261020
-SUMMARY:FR comments close: 2026-17112
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/21/2026-17112/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-17112: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/08/21/2026-17112/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/08/21/2026-17112/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17128@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261020
-SUMMARY:FR comments close: 2026-17128
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/21/2026-17128/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-17128: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/08/21/2026-17128/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/08/21/2026-17128/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17190@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261020
-SUMMARY:FR comments close: 2026-17190
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Faculty Loan Repayment Program, OMB No. 0906-0082-Revis — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-information-collection-activities-proposed-collection-public-comment-request-information
+SUMMARY:FR close 2026-17190: Agency Information Collection Activities: Proposed Collection: Public Comment Re
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Information Collection Request Title: Faculty Loan Repayment Program\, OMB No. 0906-0082-Revision https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17222@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261023
-SUMMARY:FR comments close: 2026-17222
-DESCRIPTION:Product-Specific Guidances; Draft and Revised Draft Guidances for Industry; Availability — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-specific-guidances-draft-and-revised-draft-guidances-for-industry-availability
+SUMMARY:FR close 2026-17222: Product-Specific Guidances\; Draft and Revised Draft Guidances for Industry\; Avai
+DESCRIPTION:Product-Specific Guidances\; Draft and Revised Draft Guidances for Industry\; Availability https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-specific-guidances-draft-and-revised-draft-guidances-for-industry-availability
 URL:https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-specific-guidances-draft-and-revised-draft-guidances-for-industry-availability
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17377@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261026
-SUMMARY:FR comments close: 2026-17377
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Allegations of Regulatory Misconduct Voluntarily Submitted to the Center for Devices and Radiologica — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-information-collection-activities-proposed-collection-comment-request-allegations-of
+SUMMARY:FR close 2026-17377: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Allegations of Regulatory Misconduct Voluntarily Submitted to the Center for Devices and Radiological Health https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-information-collection-activities-proposed-collection-comment-request-allegations-of
 URL:https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-information-collection-activities-proposed-collection-comment-request-allegations-of
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17484@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261026
-SUMMARY:FR comments close: 2026-17484
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/27/2026-17484/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-17484: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/08/27/2026-17484/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/08/27/2026-17484/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17598@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261027
-SUMMARY:FR comments close: 2026-17598
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Focus Groups and Interviews as Used by the Food and Drug Administration — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-information-collection-activities-proposed-collection-comment-request-focus-groups-and
+SUMMARY:FR close 2026-17598: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Focus Groups and Interviews as Used by the Food and Drug Administration https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-information-collection-activities-proposed-collection-comment-request-focus-groups-and
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-information-collection-activities-proposed-collection-comment-request-focus-groups-and
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17599@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261027
-SUMMARY:FR comments close: 2026-17599
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Food Canning Establishment Registration, Process Filing, and Recordkeeping for Acidified Foods and T — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-information-collection-activities-proposed-collection-comment-request-food-canning
+SUMMARY:FR close 2026-17599: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Food Canning Establishment Registration\, Process Filing\, and Recordkeeping for Acidified Foods and Thermally Processed L https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-information-collection-activities-proposed-collection-comment-request-food-canning
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-information-collection-activities-proposed-collection-comment-request-food-canning
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17605@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261027
-SUMMARY:FR comments close: 2026-17605
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Qualitative Feedback on Agency Service Delivery — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-information-collection-activities-proposed-collection-comment-request-qualitative-feedback-on
+SUMMARY:FR close 2026-17605: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Qualitative Feedback on Agency Service Delivery https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-information-collection-activities-proposed-collection-comment-request-qualitative-feedback-on
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-information-collection-activities-proposed-collection-comment-request-qualitative-feedback-on
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17624@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261027
-SUMMARY:FR comments close: 2026-17624
-DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17624/proposed-data-collection-submitted-for-public-comment-and-recommendations
+SUMMARY:FR close 2026-17624: Proposed Data Collection Submitted for Public Comment and Recommendations
+DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations https://www.federalregister.gov/documents/2026/08/28/2026-17624/proposed-data-collection-submitted-for-public-comment-and-recommendations
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17624/proposed-data-collection-submitted-for-public-comment-and-recommendations
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17625@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261027
-SUMMARY:FR comments close: 2026-17625
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: The National Health Service Corps Loan Repayment Progra — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-information-collection-activities-proposed-collection-public-comment-request-information
+SUMMARY:FR close 2026-17625: Agency Information Collection Activities: Proposed Collection: Public Comment Re
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Information Collection Request Title: The National Health Service Corps Loan Repayment Programs OMB No. 0915-0127 https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17675@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261030
-SUMMARY:FR comments close: 2026-17675
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Medical Devices; Reports of Removals and Corrections — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-information-collection-activities-proposed-collection-comment-request-medical-devices-reports
+SUMMARY:FR close 2026-17675: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Medical Devices\; Reports of Removals and Corrections https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-information-collection-activities-proposed-collection-comment-request-medical-devices-reports
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-information-collection-activities-proposed-collection-comment-request-medical-devices-reports
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17676@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261030
-SUMMARY:FR comments close: 2026-17676
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Registration of Human Drug Compounding Outsourcing Facilities Under the Federal Food, Drug, and Cosm — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-information-collection-activities-proposed-collection-comment-request-registration-of-human
+SUMMARY:FR close 2026-17676: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Registration of Human Drug Compounding Outsourcing Facilities Under the Federal Food\, Drug\, and Cosmetic Act and Associa https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-information-collection-activities-proposed-collection-comment-request-registration-of-human
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-information-collection-activities-proposed-collection-comment-request-registration-of-human
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17856@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261102
-SUMMARY:FR comments close: 2026-17856
-DESCRIPTION:Emergency Office of Management and Budget Review and Public Comment: Questionnaire for the Refugee Outreach and Well-Being Initiative — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-office-of-management-and-budget-review-and-public-comment-questionnaire-for-the-refugee
+SUMMARY:FR close 2026-17856: Emergency Office of Management and Budget Review and Public Comment: Questionnai
+DESCRIPTION:Emergency Office of Management and Budget Review and Public Comment: Questionnaire for the Refugee Outreach and Well-Being Initiative https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-office-of-management-and-budget-review-and-public-comment-questionnaire-for-the-refugee
 URL:https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-office-of-management-and-budget-review-and-public-comment-questionnaire-for-the-refugee
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17875@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261102
-SUMMARY:FR comments close: 2026-17875
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/01/2026-17875/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-17875: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/09/01/2026-17875/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/01/2026-17875/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18133@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261103
-SUMMARY:FR comments close: 2026-18133
-DESCRIPTION:Advancing Development of Botanical Drug Products; Request for Information — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-development-of-botanical-drug-products-request-for-information
+SUMMARY:FR close 2026-18133: Advancing Development of Botanical Drug Products\; Request for Information
+DESCRIPTION:Advancing Development of Botanical Drug Products\; Request for Information https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-development-of-botanical-drug-products-request-for-information
 URL:https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-development-of-botanical-drug-products-request-for-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18217@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261109
-SUMMARY:FR comments close: 2026-18217
-DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/08/2026-18217/proposed-data-collection-submitted-for-public-comment-and-recommendations
+SUMMARY:FR close 2026-18217: Proposed Data Collection Submitted for Public Comment and Recommendations
+DESCRIPTION:Proposed Data Collection Submitted for Public Comment and Recommendations https://www.federalregister.gov/documents/2026/09/08/2026-18217/proposed-data-collection-submitted-for-public-comment-and-recommendations
 URL:https://www.federalregister.gov/documents/2026/09/08/2026-18217/proposed-data-collection-submitted-for-public-comment-and-recommendations
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18235@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261109
-SUMMARY:FR comments close: 2026-18235
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Bureau of Health Workforce Performance Data Collection, — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/08/2026-18235/agency-information-collection-activities-proposed-collection-public-comment-request-information
+SUMMARY:FR close 2026-18235: Agency Information Collection Activities: Proposed Collection: Public Comment Re
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Information Collection Request Title: Bureau of Health Workforce Performance Data Collection\, OMB No. 0906-0086-R https://www.federalregister.gov/documents/2026/09/08/2026-18235/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/09/08/2026-18235/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18299@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261109
-SUMMARY:FR comments close: 2026-18299
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Pregnancy Exposure Registry Enrollment Project: A Survey of Health Care Providers To Advance Pregnan — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18299/agency-information-collection-activities-proposed-collection-comment-request-pregnancy-exposure
+SUMMARY:FR close 2026-18299: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Pregnancy Exposure Registry Enrollment Project: A Survey of Health Care Providers To Advance Pregnancy Safety Data Colle https://www.federalregister.gov/documents/2026/09/09/2026-18299/agency-information-collection-activities-proposed-collection-comment-request-pregnancy-exposure
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18299/agency-information-collection-activities-proposed-collection-comment-request-pregnancy-exposure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18333@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261109
-SUMMARY:FR comments close: 2026-18333
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Human Cells, Tissues, and Cellular and Tissue-Based Products — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18333/agency-information-collection-activities-proposed-collection-comment-request-human-cells-tissues-and
+SUMMARY:FR close 2026-18333: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Human Cells\, Tissues\, and Cellular and Tissue-Based Products https://www.federalregister.gov/documents/2026/09/09/2026-18333/agency-information-collection-activities-proposed-collection-comment-request-human-cells-tissues-and
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18333/agency-information-collection-activities-proposed-collection-comment-request-human-cells-tissues-and
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18529@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261110
-SUMMARY:FR comments close: 2026-18529
-DESCRIPTION:Agency Information Collection Activities; Proposed Collection; Comment Request; Medical Device Tracking — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18529/agency-information-collection-activities-proposed-collection-comment-request-medical-device-tracking
+SUMMARY:FR close 2026-18529: Agency Information Collection Activities\; Proposed Collection\; Comment Request\; 
+DESCRIPTION:Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Medical Device Tracking https://www.federalregister.gov/documents/2026/09/11/2026-18529/agency-information-collection-activities-proposed-collection-comment-request-medical-device-tracking
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18529/agency-information-collection-activities-proposed-collection-comment-request-medical-device-tracking
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18553@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261110
-SUMMARY:FR comments close: 2026-18553
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Rural Health Network Development Program Performance Im — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18553/agency-information-collection-activities-proposed-collection-public-comment-request-information
+SUMMARY:FR close 2026-18553: Agency Information Collection Activities: Proposed Collection: Public Comment Re
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Information Collection Request Title: Rural Health Network Development Program Performance Improvement and Measur https://www.federalregister.gov/documents/2026/09/11/2026-18553/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18553/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18649@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261113
-SUMMARY:FR comments close: 2026-18649
-DESCRIPTION:Agency Information Collection Activities: Proposed Collection; Comment Request — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18649/agency-information-collection-activities-proposed-collection-comment-request
+SUMMARY:FR close 2026-18649: Agency Information Collection Activities: Proposed Collection\; Comment Request
+DESCRIPTION:Agency Information Collection Activities: Proposed Collection\; Comment Request https://www.federalregister.gov/documents/2026/09/14/2026-18649/agency-information-collection-activities-proposed-collection-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18649/agency-information-collection-activities-proposed-collection-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18805@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261113
-SUMMARY:FR comments close: 2026-18805
-DESCRIPTION:Statistical Considerations for the Design of Rare Disease Clinical Investigations; Establishment of a Public Docket; Request for Information and Comments — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/15/2026-18805/statistical-considerations-for-the-design-of-rare-disease-clinical-investigations-establishment-of-a
+SUMMARY:FR close 2026-18805: Statistical Considerations for the Design of Rare Disease Clinical Investigation
+DESCRIPTION:Statistical Considerations for the Design of Rare Disease Clinical Investigations\; Establishment of a Public Docket\; Request for Information and Comments https://www.federalregister.gov/documents/2026/09/15/2026-18805/statistical-considerations-for-the-design-of-rare-disease-clinical-investigations-establishment-of-a
 URL:https://www.federalregister.gov/documents/2026/09/15/2026-18805/statistical-considerations-for-the-design-of-rare-disease-clinical-investigations-establishment-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18841@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261116
-SUMMARY:FR comments close: 2026-18841
-DESCRIPTION:Proposed Information Collection Activity; Multistate Financial Institution Data Match With Federally Assisted State Transmitted Levy — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/15/2026-18841/proposed-information-collection-activity-multistate-financial-institution-data-match-with-federally
+SUMMARY:FR close 2026-18841: Proposed Information Collection Activity\; Multistate Financial Institution Data 
+DESCRIPTION:Proposed Information Collection Activity\; Multistate Financial Institution Data Match With Federally Assisted State Transmitted Levy https://www.federalregister.gov/documents/2026/09/15/2026-18841/proposed-information-collection-activity-multistate-financial-institution-data-match-with-federally
 URL:https://www.federalregister.gov/documents/2026/09/15/2026-18841/proposed-information-collection-activity-multistate-financial-institution-data-match-with-federally
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16960@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261118
-SUMMARY:FR comments close: 2026-16960
-DESCRIPTION:Potency Assessment of Active Immunotherapy Products; Draft Guidance for Industry; Availability — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-assessment-of-active-immunotherapy-products-draft-guidance-for-industry-availability
+SUMMARY:FR close 2026-16960: Potency Assessment of Active Immunotherapy Products\; Draft Guidance for Industry
+DESCRIPTION:Potency Assessment of Active Immunotherapy Products\; Draft Guidance for Industry\; Availability https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-assessment-of-active-immunotherapy-products-draft-guidance-for-industry-availability
 URL:https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-assessment-of-active-immunotherapy-products-draft-guidance-for-industry-availability
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17580@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261127
-SUMMARY:FR comments close: 2026-17580
-DESCRIPTION:Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in Federally-Registered Facilities; Draft Guidance for Industry; Availability; Agency Information Collect — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered
+SUMMARY:FR close 2026-17580: Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in Fe
+DESCRIPTION:Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in Federally-Registered Facilities\; Draft Guidance for Industry\; Availability\; Agency Information Collection Activities\; Prop https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17961@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261201
-SUMMARY:FR comments close: 2026-17961
-DESCRIPTION:Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design, Data Analysis, and Impact on Dosage; Draft Guidance for Industry; Availability — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokinetics-in-patients-with-impaired-hepatic-function-study-design-data-analysis-and-impact-on
+SUMMARY:FR close 2026-17961: Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design\, Data 
+DESCRIPTION:Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design\, Data Analysis\, and Impact on Dosage\; Draft Guidance for Industry\; Availability https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokinetics-in-patients-with-impaired-hepatic-function-study-design-data-analysis-and-impact-on
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokinetics-in-patients-with-impaired-hepatic-function-study-design-data-analysis-and-impact-on
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16296@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261209
-SUMMARY:FR comments close: 2026-16296
-DESCRIPTION:Substances Generally Recognized as Safe — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-generally-recognized-as-safe
+SUMMARY:FR close 2026-16296: Substances Generally Recognized as Safe
+DESCRIPTION:Substances Generally Recognized as Safe https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-generally-recognized-as-safe
 URL:https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-generally-recognized-as-safe
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18297@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270308
-SUMMARY:FR comments close: 2026-18297
-DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension; ANKTIVA — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18297/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anktiva
+SUMMARY:FR close 2026-18297: Determination of Regulatory Review Period for Purposes of Patent Extension\; ANKT
+DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension\; ANKTIVA https://www.federalregister.gov/documents/2026/09/09/2026-18297/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anktiva
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18297/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anktiva
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18298@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270308
-SUMMARY:FR comments close: 2026-18298
-DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension; ANZUPGO — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18298/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anzupgo
+SUMMARY:FR close 2026-18298: Determination of Regulatory Review Period for Purposes of Patent Extension\; ANZU
+DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension\; ANZUPGO https://www.federalregister.gov/documents/2026/09/09/2026-18298/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anzupgo
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18298/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anzupgo
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18300@fr-deadline-board
+DTSTAMP:20260916T130000Z
 DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270308
-SUMMARY:FR comments close: 2026-18300
-DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension; ANDEMBRY — AI desk; not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18300/determination-of-regulatory-review-period-for-purposes-of-patent-extension-andembry
+SUMMARY:FR close 2026-18300: Determination of Regulatory Review Period for Purposes of Patent Extension\; ANDE
+DESCRIPTION:Determination of Regulatory Review Period for Purposes of Patent Extension\; ANDEMBRY https://www.federalregister.gov/documents/2026/09/09/2026-18300/determination-of-regulatory-review-period-for-purposes-of-patent-extension-andembry
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18300/determination-of-regulatory-review-period-for-purposes-of-patent-extension-andembry
 END:VEVENT
 END:VCALENDAR
