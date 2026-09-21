@@ -6,17 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:FDA/CMS/HHS FR comment deadlines
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:2026-17250@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260920
-SUMMARY:FR close 2026-17250 — Request for Information: Categories Used in Federal Vaccine Recommendations and the Role o
-DESCRIPTION:HHS Notice 2026-17250 closes 2026-09-20. Not legal advice. https://www.federalregister.gov/documents/2026/08/24/2026-17250/request-for-information-categories-used-in-federal-vaccine-recommendations-and-the-role-of-shared
-URL:https://www.federalregister.gov/documents/2026/08/24/2026-17250/request-for-information-categories-used-in-federal-vaccine-recommendations-and-the-role-of-shared
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-14699@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
 SUMMARY:FR close 2026-14699 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -25,25 +16,25 @@ URL:https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-14897@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
-SUMMARY:FR close 2026-14897 — Medicaid Program\; Amending the Indirect Hold Harmless Threshold of Health Care-Related Tax
+SUMMARY:FR close 2026-14897 — Medicaid Program\; Amending the Indirect Hold Harmless Threshold of Health Care-…
 DESCRIPTION:CMS Proposed Rule 2026-14897 closes 2026-09-21. Not legal advice. https://www.federalregister.gov/documents/2026/07/23/2026-14897/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes
 URL:https://www.federalregister.gov/documents/2026/07/23/2026-14897/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17009@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
-SUMMARY:FR close 2026-17009 — Agency Information Collection Activities: Submission to OMB for Review and Approval\; Publi
+SUMMARY:FR close 2026-17009 — Agency Information Collection Activities: Submission to OMB for Review and Appr…
 DESCRIPTION:HRSA Notice 2026-17009 closes 2026-09-21. Not legal advice. https://www.federalregister.gov/documents/2026/08/20/2026-17009/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 URL:https://www.federalregister.gov/documents/2026/08/20/2026-17009/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17164@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
 SUMMARY:FR close 2026-17164 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -52,7 +43,7 @@ URL:https://www.federalregister.gov/documents/2026/08/21/2026-17164/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-15048@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260922
 SUMMARY:FR close 2026-15048 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -61,61 +52,61 @@ URL:https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17545@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
-SUMMARY:FR close 2026-17545 — Submission for Office of Management and Budget Review\; National and State Survey of Child 
+SUMMARY:FR close 2026-17545 — Submission for Office of Management and Budget Review\; National and State Surve…
 DESCRIPTION:ACF Notice 2026-17545 closes 2026-09-28. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-for-office-of-management-and-budget-review-national-and-state-survey-of-child-and
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-for-office-of-management-and-budget-review-national-and-state-survey-of-child-and
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17601@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
-SUMMARY:FR close 2026-17601 — Agency Information Collection Activities\; Submission for Office of Management and Budget R
+SUMMARY:FR close 2026-17601 — Agency Information Collection Activities\; Submission for Office of Management a…
 DESCRIPTION:FDA Notice 2026-17601 closes 2026-09-28. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17603@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
-SUMMARY:FR close 2026-17603 — Agency Information Collection Activities\; Submission for Office of Management and Budget R
+SUMMARY:FR close 2026-17603 — Agency Information Collection Activities\; Submission for Office of Management a…
 DESCRIPTION:FDA Notice 2026-17603 closes 2026-09-28. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17677@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-SUMMARY:FR close 2026-17677 — Agency Information Collection Activities\; Submission for Office of Management and Budget R
+SUMMARY:FR close 2026-17677 — Agency Information Collection Activities\; Submission for Office of Management a…
 DESCRIPTION:FDA Notice 2026-17677 closes 2026-09-30. Not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17745@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-SUMMARY:FR close 2026-17745 — Submission for Office of Management and Budget Review\; Head Start State Collaboration Offi
+SUMMARY:FR close 2026-17745 — Submission for Office of Management and Budget Review\; Head Start State Collabo…
 DESCRIPTION:ACF Notice 2026-17745 closes 2026-09-30. Not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-for-office-of-management-and-budget-review-head-start-state-collaboration-office-grant
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-for-office-of-management-and-budget-review-head-start-state-collaboration-office-grant
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18877@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-SUMMARY:FR close 2026-18877 — Prospective Grant of an Exclusive Patent License: Development and Commercialization of Eng
+SUMMARY:FR close 2026-18877 — Prospective Grant of an Exclusive Patent License: Development and Commercializa…
 DESCRIPTION:NIH Notice 2026-18877 closes 2026-09-30. Not legal advice. https://www.federalregister.gov/documents/2026/09/15/2026-18877/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-engineered
 URL:https://www.federalregister.gov/documents/2026/09/15/2026-18877/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-engineered
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18987@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
 SUMMARY:FR close 2026-18987 — Opportunity To Co-Sponsor Events With the Office of Research Integrity
@@ -124,7 +115,7 @@ URL:https://www.federalregister.gov/documents/2026/09/16/2026-18987/opportunity-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17907@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
 SUMMARY:FR close 2026-17907 — Privacy Act of 1974\; Matching Program
@@ -133,25 +124,25 @@ URL:https://www.federalregister.gov/documents/2026/09/02/2026-17907/privacy-act-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17970@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
-SUMMARY:FR close 2026-17970 — Agency Information Collection Activities: Submission for OMB Review\; Comment Request
+SUMMARY:FR close 2026-17970 — Agency Information Collection Activities: Submission for OMB Review\; Comment Re…
 DESCRIPTION:CMS Notice 2026-17970 closes 2026-10-02. Not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17982@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
-SUMMARY:FR close 2026-17982 — Submission for Office of Management and Budget Review\; TANF Contingency Fund Application
+SUMMARY:FR close 2026-17982 — Submission for Office of Management and Budget Review\; TANF Contingency Fund Ap…
 DESCRIPTION:ACF Notice 2026-17982 closes 2026-10-02. Not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18060@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
 SUMMARY:FR close 2026-18060 — Agency Information Collection Request. 30-Day Public Comment Request
@@ -160,16 +151,16 @@ URL:https://www.federalregister.gov/documents/2026/09/03/2026-18060/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18115@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-SUMMARY:FR close 2026-18115 — Agency Information Collection Activities: Submission to OMB for Review and Approval\; Publi
+SUMMARY:FR close 2026-18115 — Agency Information Collection Activities: Submission to OMB for Review and Appr…
 DESCRIPTION:HRSA Notice 2026-18115 closes 2026-10-05. Not legal advice. https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 URL:https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18167@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
 SUMMARY:FR close 2026-18167 — Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals
@@ -178,16 +169,16 @@ URL:https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bur
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16368@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
-SUMMARY:FR close 2026-16368 — Medicare Program\; Regulatory Alignment for Predictable and Immediate Device (RAPID) Covera
+SUMMARY:FR close 2026-16368 — Medicare Program\; Regulatory Alignment for Predictable and Immediate Device (RA…
 DESCRIPTION:CMS Notice 2026-16368 closes 2026-10-13. Not legal advice. https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway
 URL:https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16386@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-16386 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -196,7 +187,7 @@ URL:https://www.federalregister.gov/documents/2026/08/12/2026-16386/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16455@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-16455 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -205,43 +196,43 @@ URL:https://www.federalregister.gov/documents/2026/08/13/2026-16455/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16638@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
-SUMMARY:FR close 2026-16638 — Container Closure Systems for Human Drugs and Biological Products\; Draft Guidance for Indu
+SUMMARY:FR close 2026-16638 — Container Closure Systems for Human Drugs and Biological Products\; Draft Guidan…
 DESCRIPTION:FDA Notice 2026-16638 closes 2026-10-13. Not legal advice. https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-closure-systems-for-human-drugs-and-biological-products-draft-guidance-for-industry
 URL:https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-closure-systems-for-human-drugs-and-biological-products-draft-guidance-for-industry
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18528@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
-SUMMARY:FR close 2026-18528 — Agency Information Collection Activities\; Submission for Office of Management and Budget R
+SUMMARY:FR close 2026-18528 — Agency Information Collection Activities\; Submission for Office of Management a…
 DESCRIPTION:FDA Notice 2026-18528 closes 2026-10-13. Not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18528/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18528/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18611@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
-SUMMARY:FR close 2026-18611 — Agency Information Collection Activities: Submission for OMB Review\; Comment Request
+SUMMARY:FR close 2026-18611 — Agency Information Collection Activities: Submission for OMB Review\; Comment Re…
 DESCRIPTION:CMS Notice 2026-18611 closes 2026-10-13. Not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18611/agency-information-collection-activities-submission-for-omb-review-comment-request
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18611/agency-information-collection-activities-submission-for-omb-review-comment-request
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18691@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
-SUMMARY:FR close 2026-18691 — Agency Information Collection Activities\; Submission for Office of Management and Budget R
+SUMMARY:FR close 2026-18691 — Agency Information Collection Activities\; Submission for Office of Management a…
 DESCRIPTION:FDA Notice 2026-18691 closes 2026-10-14. Not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18691/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18691/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18727@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
 SUMMARY:FR close 2026-18727 — Solicitation for Nominations To Serve on the Family Caregiving Advisory Council
@@ -250,70 +241,70 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18727/solicitation
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18728@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
-SUMMARY:FR close 2026-18728 — Solicitation for Nominations To Serve on the Advisory Council To Support Grandparents Rais
+SUMMARY:FR close 2026-18728 — Solicitation for Nominations To Serve on the Advisory Council To Support Grandp…
 DESCRIPTION:ACL Notice 2026-18728 closes 2026-10-14. Not legal advice. https://www.federalregister.gov/documents/2026/09/14/2026-18728/solicitation-for-nominations-to-serve-on-the-advisory-council-to-support-grandparents-raising
 URL:https://www.federalregister.gov/documents/2026/09/14/2026-18728/solicitation-for-nominations-to-serve-on-the-advisory-council-to-support-grandparents-raising
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16712@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
-SUMMARY:FR close 2026-16712 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Imports an
+SUMMARY:FR close 2026-16712 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-16712 closes 2026-10-16. Not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-information-collection-activities-proposed-collection-comment-request-imports-and-electronic
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-information-collection-activities-proposed-collection-comment-request-imports-and-electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16713@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
-SUMMARY:FR close 2026-16713 — Determination of Regulatory Review Period for Purposes of Patent Extension\; BIZENGRI
+SUMMARY:FR close 2026-16713 — Determination of Regulatory Review Period for Purposes of Patent Extension\; BIZ…
 DESCRIPTION:FDA Notice 2026-16713 closes 2026-10-16. Not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16713/determination-of-regulatory-review-period-for-purposes-of-patent-extension-bizengri
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16713/determination-of-regulatory-review-period-for-purposes-of-patent-extension-bizengri
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16714@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
-SUMMARY:FR close 2026-16714 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Third Part
+SUMMARY:FR close 2026-16714 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-16714 closes 2026-10-16. Not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-information-collection-activities-proposed-collection-comment-request-third-party-disclosure
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-information-collection-activities-proposed-collection-comment-request-third-party-disclosure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16728@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
-SUMMARY:FR close 2026-16728 — Gastroenterology-Urology Devices\; Reclassification of Diagnostic Endoscopic Light Source S
+SUMMARY:FR close 2026-16728 — Gastroenterology-Urology Devices\; Reclassification of Diagnostic Endoscopic Lig…
 DESCRIPTION:FDA Proposed Rule 2026-16728 closes 2026-10-16. Not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16729@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
-SUMMARY:FR close 2026-16729 — Medical Devices\; Classification of Accessories Distinct From Other Devices\; Proposed List 
+SUMMARY:FR close 2026-16729 — Medical Devices\; Classification of Accessories Distinct From Other Devices\; Pro…
 DESCRIPTION:FDA Proposed Rule 2026-16729 closes 2026-10-16. Not legal advice. https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of
 URL:https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18946@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
-SUMMARY:FR close 2026-18946 — Agency Information Collection Activities\; Submission for Office of Management and Budget R
+SUMMARY:FR close 2026-18946 — Agency Information Collection Activities\; Submission for Office of Management a…
 DESCRIPTION:FDA Notice 2026-18946 closes 2026-10-16. Not legal advice. https://www.federalregister.gov/documents/2026/09/16/2026-18946/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 URL:https://www.federalregister.gov/documents/2026/09/16/2026-18946/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18950@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-18950 — Agency Information Collection Request\; 30-Day Public Comment Request
@@ -322,43 +313,43 @@ URL:https://www.federalregister.gov/documents/2026/09/16/2026-18950/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16353@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261017
-SUMMARY:FR close 2026-16353 — Reauthorization of the Generic Drug User Fee Amendments\; Public Meeting\; Request for Comme
+SUMMARY:FR close 2026-16353 — Reauthorization of the Generic Drug User Fee Amendments\; Public Meeting\; Reques…
 DESCRIPTION:FDA Notice 2026-16353 closes 2026-10-17. Not legal advice. https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorization-of-the-generic-drug-user-fee-amendments-public-meeting-request-for-comments
 URL:https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorization-of-the-generic-drug-user-fee-amendments-public-meeting-request-for-comments
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16837@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
-SUMMARY:FR close 2026-16837 — Determining Whether To Submit an ANDA or a 505(b)(2) Application\; Draft Guidance for Indus
+SUMMARY:FR close 2026-16837 — Determining Whether To Submit an ANDA or a 505(b)(2) Application\; Draft Guidanc…
 DESCRIPTION:FDA Notice 2026-16837 closes 2026-10-19. Not legal advice. https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-whether-to-submit-an-anda-or-a-505b2-application-draft-guidance-for-industry
 URL:https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-whether-to-submit-an-anda-or-a-505b2-application-draft-guidance-for-industry
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16871@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
-SUMMARY:FR close 2026-16871 — Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Inf
+SUMMARY:FR close 2026-16871 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
 DESCRIPTION:HRSA Notice 2026-16871 closes 2026-10-19. Not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16912@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
-SUMMARY:FR close 2026-16912 — Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Inf
+SUMMARY:FR close 2026-16912 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
 DESCRIPTION:HRSA Notice 2026-16912 closes 2026-10-19. Not legal advice. https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17037@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-17037 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -367,7 +358,7 @@ URL:https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17040@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-17040 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -376,7 +367,7 @@ URL:https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18646@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-18646 — Draft NIH Biosafety Policy for Research Involving Biohazards
@@ -385,7 +376,7 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18646/draft-nih-bi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17112@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 SUMMARY:FR close 2026-17112 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -394,7 +385,7 @@ URL:https://www.federalregister.gov/documents/2026/08/21/2026-17112/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17128@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 SUMMARY:FR close 2026-17128 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -403,34 +394,52 @@ URL:https://www.federalregister.gov/documents/2026/08/21/2026-17128/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17190@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
-SUMMARY:FR close 2026-17190 — Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Inf
+SUMMARY:FR close 2026-17190 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
 DESCRIPTION:HRSA Notice 2026-17190 closes 2026-10-20. Not legal advice. https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-19252@fr-deadline-board.grokbotops
+DTSTAMP:20260921T133930Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261021
+SUMMARY:FR close 2026-19252 — Request for Information on Electromagnetic Fields (EMFs)\, Radiofrequency (RF) R…
+DESCRIPTION:HHS Notice 2026-19252 closes 2026-10-21. Not legal advice. https://www.federalregister.gov/documents/2026/09/21/2026-19252/request-for-information-on-electromagnetic-fields-emfs-radiofrequency-rf-radiation-and-wireless
+URL:https://www.federalregister.gov/documents/2026/09/21/2026-19252/request-for-information-on-electromagnetic-fields-emfs-radiofrequency-rf-radiation-and-wireless
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-19284@fr-deadline-board.grokbotops
+DTSTAMP:20260921T133930Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261021
+SUMMARY:FR close 2026-19284 — Agency Information Collection Activities\; Submission for Office of Management a…
+DESCRIPTION:FDA Notice 2026-19284 closes 2026-10-21. Not legal advice. https://www.federalregister.gov/documents/2026/09/21/2026-19284/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+URL:https://www.federalregister.gov/documents/2026/09/21/2026-19284/agency-information-collection-activities-submission-for-office-of-management-and-budget-review
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-17222@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261023
-SUMMARY:FR close 2026-17222 — Product-Specific Guidances\; Draft and Revised Draft Guidances for Industry\; Availability
+SUMMARY:FR close 2026-17222 — Product-Specific Guidances\; Draft and Revised Draft Guidances for Industry\; Ava…
 DESCRIPTION:FDA Notice 2026-17222 closes 2026-10-23. Not legal advice. https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-specific-guidances-draft-and-revised-draft-guidances-for-industry-availability
 URL:https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-specific-guidances-draft-and-revised-draft-guidances-for-industry-availability
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17377@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261026
-SUMMARY:FR close 2026-17377 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Allegation
+SUMMARY:FR close 2026-17377 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-17377 closes 2026-10-26. Not legal advice. https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-information-collection-activities-proposed-collection-comment-request-allegations-of
 URL:https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-information-collection-activities-proposed-collection-comment-request-allegations-of
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17484@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261026
 SUMMARY:FR close 2026-17484 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -439,34 +448,34 @@ URL:https://www.federalregister.gov/documents/2026/08/27/2026-17484/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17598@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-SUMMARY:FR close 2026-17598 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Focus Grou
+SUMMARY:FR close 2026-17598 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-17598 closes 2026-10-27. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-information-collection-activities-proposed-collection-comment-request-focus-groups-and
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-information-collection-activities-proposed-collection-comment-request-focus-groups-and
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17599@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-SUMMARY:FR close 2026-17599 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Food Canni
+SUMMARY:FR close 2026-17599 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-17599 closes 2026-10-27. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-information-collection-activities-proposed-collection-comment-request-food-canning
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-information-collection-activities-proposed-collection-comment-request-food-canning
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17605@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-SUMMARY:FR close 2026-17605 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Qualitativ
+SUMMARY:FR close 2026-17605 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-17605 closes 2026-10-27. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-information-collection-activities-proposed-collection-comment-request-qualitative-feedback-on
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-information-collection-activities-proposed-collection-comment-request-qualitative-feedback-on
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17624@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:FR close 2026-17624 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -475,43 +484,43 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17624/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17625@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-SUMMARY:FR close 2026-17625 — Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Inf
+SUMMARY:FR close 2026-17625 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
 DESCRIPTION:HRSA Notice 2026-17625 closes 2026-10-27. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17675@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
-SUMMARY:FR close 2026-17675 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Medical De
+SUMMARY:FR close 2026-17675 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-17675 closes 2026-10-30. Not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-information-collection-activities-proposed-collection-comment-request-medical-devices-reports
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-information-collection-activities-proposed-collection-comment-request-medical-devices-reports
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17676@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
-SUMMARY:FR close 2026-17676 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Registrati
+SUMMARY:FR close 2026-17676 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-17676 closes 2026-10-30. Not legal advice. https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-information-collection-activities-proposed-collection-comment-request-registration-of-human
 URL:https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-information-collection-activities-proposed-collection-comment-request-registration-of-human
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17856@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261102
-SUMMARY:FR close 2026-17856 — Emergency Office of Management and Budget Review and Public Comment: Questionnaire for the
+SUMMARY:FR close 2026-17856 — Emergency Office of Management and Budget Review and Public Comment: Questionna…
 DESCRIPTION:ACF Notice 2026-17856 closes 2026-11-02. Not legal advice. https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-office-of-management-and-budget-review-and-public-comment-questionnaire-for-the-refugee
 URL:https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-office-of-management-and-budget-review-and-public-comment-questionnaire-for-the-refugee
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17875@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261102
 SUMMARY:FR close 2026-17875 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -520,7 +529,7 @@ URL:https://www.federalregister.gov/documents/2026/09/01/2026-17875/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18133@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261103
 SUMMARY:FR close 2026-18133 — Advancing Development of Botanical Drug Products\; Request for Information
@@ -529,7 +538,7 @@ URL:https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-de
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18217@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
 SUMMARY:FR close 2026-18217 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -538,52 +547,52 @@ URL:https://www.federalregister.gov/documents/2026/09/08/2026-18217/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18235@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
-SUMMARY:FR close 2026-18235 — Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Inf
+SUMMARY:FR close 2026-18235 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
 DESCRIPTION:HRSA Notice 2026-18235 closes 2026-11-09. Not legal advice. https://www.federalregister.gov/documents/2026/09/08/2026-18235/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/09/08/2026-18235/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18299@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
-SUMMARY:FR close 2026-18299 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Pregnancy 
+SUMMARY:FR close 2026-18299 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-18299 closes 2026-11-09. Not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18299/agency-information-collection-activities-proposed-collection-comment-request-pregnancy-exposure
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18299/agency-information-collection-activities-proposed-collection-comment-request-pregnancy-exposure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18333@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
-SUMMARY:FR close 2026-18333 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Human Cell
+SUMMARY:FR close 2026-18333 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-18333 closes 2026-11-09. Not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18333/agency-information-collection-activities-proposed-collection-comment-request-human-cells-tissues-and
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18333/agency-information-collection-activities-proposed-collection-comment-request-human-cells-tissues-and
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18529@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261110
-SUMMARY:FR close 2026-18529 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\; Medical De
+SUMMARY:FR close 2026-18529 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
 DESCRIPTION:FDA Notice 2026-18529 closes 2026-11-10. Not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18529/agency-information-collection-activities-proposed-collection-comment-request-medical-device-tracking
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18529/agency-information-collection-activities-proposed-collection-comment-request-medical-device-tracking
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18553@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261110
-SUMMARY:FR close 2026-18553 — Agency Information Collection Activities: Proposed Collection: Public Comment Request\; Inf
+SUMMARY:FR close 2026-18553 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
 DESCRIPTION:HRSA Notice 2026-18553 closes 2026-11-10. Not legal advice. https://www.federalregister.gov/documents/2026/09/11/2026-18553/agency-information-collection-activities-proposed-collection-public-comment-request-information
 URL:https://www.federalregister.gov/documents/2026/09/11/2026-18553/agency-information-collection-activities-proposed-collection-public-comment-request-information
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18649@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261113
 SUMMARY:FR close 2026-18649 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -592,88 +601,124 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18649/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18805@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261113
-SUMMARY:FR close 2026-18805 — Statistical Considerations for the Design of Rare Disease Clinical Investigations\; Establi
+SUMMARY:FR close 2026-18805 — Statistical Considerations for the Design of Rare Disease Clinical Investigatio…
 DESCRIPTION:FDA Notice 2026-18805 closes 2026-11-13. Not legal advice. https://www.federalregister.gov/documents/2026/09/15/2026-18805/statistical-considerations-for-the-design-of-rare-disease-clinical-investigations-establishment-of-a
 URL:https://www.federalregister.gov/documents/2026/09/15/2026-18805/statistical-considerations-for-the-design-of-rare-disease-clinical-investigations-establishment-of-a
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18841@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261116
-SUMMARY:FR close 2026-18841 — Proposed Information Collection Activity\; Multistate Financial Institution Data Match With
+SUMMARY:FR close 2026-18841 — Proposed Information Collection Activity\; Multistate Financial Institution Data…
 DESCRIPTION:ACF Notice 2026-18841 closes 2026-11-16. Not legal advice. https://www.federalregister.gov/documents/2026/09/15/2026-18841/proposed-information-collection-activity-multistate-financial-institution-data-match-with-federally
 URL:https://www.federalregister.gov/documents/2026/09/15/2026-18841/proposed-information-collection-activity-multistate-financial-institution-data-match-with-federally
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19023@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261116
-SUMMARY:FR close 2026-19023 — Proposed Information Collection Activity\; Diaper Distribution Demonstration and Research P
+SUMMARY:FR close 2026-19023 — Proposed Information Collection Activity\; Diaper Distribution Demonstration and…
 DESCRIPTION:ACF Notice 2026-19023 closes 2026-11-16. Not legal advice. https://www.federalregister.gov/documents/2026/09/17/2026-19023/proposed-information-collection-activity-diaper-distribution-demonstration-and-research-pilot
 URL:https://www.federalregister.gov/documents/2026/09/17/2026-19023/proposed-information-collection-activity-diaper-distribution-demonstration-and-research-pilot
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19141@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261117
-SUMMARY:FR close 2026-19141 — Target Animal Safety Evaluation for Veterinary Monoclonal Antibody Products\; Draft Guidanc
+SUMMARY:FR close 2026-19141 — Target Animal Safety Evaluation for Veterinary Monoclonal Antibody Products\; Dr…
 DESCRIPTION:FDA Notice 2026-19141 closes 2026-11-17. Not legal advice. https://www.federalregister.gov/documents/2026/09/18/2026-19141/target-animal-safety-evaluation-for-veterinary-monoclonal-antibody-products-draft-guidance-for
 URL:https://www.federalregister.gov/documents/2026/09/18/2026-19141/target-animal-safety-evaluation-for-veterinary-monoclonal-antibody-products-draft-guidance-for
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19166@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261117
-SUMMARY:FR close 2026-19166 — Biosimilar User Fee Act III Future Needs in the Development of Interchangeable Products Po
+SUMMARY:FR close 2026-19166 — Biosimilar User Fee Act III Future Needs in the Development of Interchangeable …
 DESCRIPTION:FDA Notice 2026-19166 closes 2026-11-17. Not legal advice. https://www.federalregister.gov/documents/2026/09/18/2026-19166/biosimilar-user-fee-act-iii-future-needs-in-the-development-of-interchangeable-products
 URL:https://www.federalregister.gov/documents/2026/09/18/2026-19166/biosimilar-user-fee-act-iii-future-needs-in-the-development-of-interchangeable-products
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19181@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261117
-SUMMARY:FR close 2026-19181 — Electronic Submission Template for Medical Device Premarket Approval Applications (PMAs)\; 
+SUMMARY:FR close 2026-19181 — Electronic Submission Template for Medical Device Premarket Approval Applicatio…
 DESCRIPTION:FDA Notice 2026-19181 closes 2026-11-17. Not legal advice. https://www.federalregister.gov/documents/2026/09/18/2026-19181/electronic-submission-template-for-medical-device-premarket-approval-applications-pmas-draft
 URL:https://www.federalregister.gov/documents/2026/09/18/2026-19181/electronic-submission-template-for-medical-device-premarket-approval-applications-pmas-draft
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16960@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261118
-SUMMARY:FR close 2026-16960 — Potency Assessment of Active Immunotherapy Products\; Draft Guidance for Industry\; Availabi
+SUMMARY:FR close 2026-16960 — Potency Assessment of Active Immunotherapy Products\; Draft Guidance for Industr…
 DESCRIPTION:FDA Notice 2026-16960 closes 2026-11-18. Not legal advice. https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-assessment-of-active-immunotherapy-products-draft-guidance-for-industry-availability
 URL:https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-assessment-of-active-immunotherapy-products-draft-guidance-for-industry-availability
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-19271@fr-deadline-board.grokbotops
+DTSTAMP:20260921T133930Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:FR close 2026-19271 — Data Intermediaries and Approaches To Strengthen Public Health Data Exchange
+DESCRIPTION:CDC Notice 2026-19271 closes 2026-11-20. Not legal advice. https://www.federalregister.gov/documents/2026/09/21/2026-19271/data-intermediaries-and-approaches-to-strengthen-public-health-data-exchange
+URL:https://www.federalregister.gov/documents/2026/09/21/2026-19271/data-intermediaries-and-approaches-to-strengthen-public-health-data-exchange
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-19281@fr-deadline-board.grokbotops
+DTSTAMP:20260921T133930Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:FR close 2026-19281 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
+DESCRIPTION:FDA Notice 2026-19281 closes 2026-11-20. Not legal advice. https://www.federalregister.gov/documents/2026/09/21/2026-19281/agency-information-collection-activities-proposed-collection-comment-request-prior-notice-of
+URL:https://www.federalregister.gov/documents/2026/09/21/2026-19281/agency-information-collection-activities-proposed-collection-comment-request-prior-notice-of
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-19282@fr-deadline-board.grokbotops
+DTSTAMP:20260921T133930Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:FR close 2026-19282 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
+DESCRIPTION:FDA Notice 2026-19282 closes 2026-11-20. Not legal advice. https://www.federalregister.gov/documents/2026/09/21/2026-19282/agency-information-collection-activities-proposed-collection-comment-request-state-petitions-for
+URL:https://www.federalregister.gov/documents/2026/09/21/2026-19282/agency-information-collection-activities-proposed-collection-comment-request-state-petitions-for
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-19283@fr-deadline-board.grokbotops
+DTSTAMP:20260921T133930Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:FR close 2026-19283 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
+DESCRIPTION:FDA Notice 2026-19283 closes 2026-11-20. Not legal advice. https://www.federalregister.gov/documents/2026/09/21/2026-19283/agency-information-collection-activities-proposed-collection-comment-request-temporary-marketing
+URL:https://www.federalregister.gov/documents/2026/09/21/2026-19283/agency-information-collection-activities-proposed-collection-comment-request-temporary-marketing
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-17580@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261127
-SUMMARY:FR close 2026-17580 — Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in Federally-Re
+SUMMARY:FR close 2026-17580 — Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in F…
 DESCRIPTION:FDA Notice 2026-17580 closes 2026-11-27. Not legal advice. https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered
 URL:https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-animal-drugs-from-bulk-drug-substances-compounding-under-cgmp-in-federally-registered
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17961@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261201
-SUMMARY:FR close 2026-17961 — Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design\, Data Analysis\, 
+SUMMARY:FR close 2026-17961 — Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design\, Data…
 DESCRIPTION:FDA Notice 2026-17961 closes 2026-12-01. Not legal advice. https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokinetics-in-patients-with-impaired-hepatic-function-study-design-data-analysis-and-impact-on
 URL:https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokinetics-in-patients-with-impaired-hepatic-function-study-design-data-analysis-and-impact-on
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16296@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261209
 SUMMARY:FR close 2026-16296 — Substances Generally Recognized as Safe
@@ -682,28 +727,28 @@ URL:https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18297@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270308
-SUMMARY:FR close 2026-18297 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANKTIVA
+SUMMARY:FR close 2026-18297 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANK…
 DESCRIPTION:FDA Notice 2026-18297 closes 2027-03-08. Not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18297/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anktiva
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18297/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anktiva
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18298@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270308
-SUMMARY:FR close 2026-18298 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANZUPGO
+SUMMARY:FR close 2026-18298 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANZ…
 DESCRIPTION:FDA Notice 2026-18298 closes 2027-03-08. Not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18298/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anzupgo
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18298/determination-of-regulatory-review-period-for-purposes-of-patent-extension-anzupgo
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18300@fr-deadline-board.grokbotops
-DTSTAMP:20260920T130800Z
+DTSTAMP:20260921T133930Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270308
-SUMMARY:FR close 2026-18300 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANDEMBRY
+SUMMARY:FR close 2026-18300 — Determination of Regulatory Review Period for Purposes of Patent Extension\; AND…
 DESCRIPTION:FDA Notice 2026-18300 closes 2027-03-08. Not legal advice. https://www.federalregister.gov/documents/2026/09/09/2026-18300/determination-of-regulatory-review-period-for-purposes-of-patent-extension-andembry
 URL:https://www.federalregister.gov/documents/2026/09/09/2026-18300/determination-of-regulatory-review-period-for-purposes-of-patent-extension-andembry
 END:VEVENT
