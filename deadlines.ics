@@ -6,17 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:FDA/CMS/HHS FR comment deadlines
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:2026-15048@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260922
-SUMMARY:FR close 2026-15048 — Agency Information Collection Activities: Proposed Collection\; Comment Request
-DESCRIPTION:CMS Notice 2026-15048 closes 2026-09-22. Not legal advice. https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request
-URL:https://www.federalregister.gov/documents/2026/07/24/2026-15048/agency-information-collection-activities-proposed-collection-comment-request
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-17545@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
 SUMMARY:FR close 2026-17545 — Submission for Office of Management and Budget Review\; National and State Surve…
@@ -25,7 +16,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17545/submission-f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17601@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
 SUMMARY:FR close 2026-17601 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -34,7 +25,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17601/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17603@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260928
 SUMMARY:FR close 2026-17603 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -43,7 +34,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17603/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17677@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
 SUMMARY:FR close 2026-17677 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -52,7 +43,7 @@ URL:https://www.federalregister.gov/documents/2026/08/31/2026-17677/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17745@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
 SUMMARY:FR close 2026-17745 — Submission for Office of Management and Budget Review\; Head Start State Collabo…
@@ -61,7 +52,7 @@ URL:https://www.federalregister.gov/documents/2026/08/31/2026-17745/submission-f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18877@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
 SUMMARY:FR close 2026-18877 — Prospective Grant of an Exclusive Patent License: Development and Commercializa…
@@ -70,7 +61,7 @@ URL:https://www.federalregister.gov/documents/2026/09/15/2026-18877/prospective-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18987@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
 SUMMARY:FR close 2026-18987 — Opportunity To Co-Sponsor Events With the Office of Research Integrity
@@ -79,7 +70,7 @@ URL:https://www.federalregister.gov/documents/2026/09/16/2026-18987/opportunity-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17907@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
 SUMMARY:FR close 2026-17907 — Privacy Act of 1974\; Matching Program
@@ -88,7 +79,7 @@ URL:https://www.federalregister.gov/documents/2026/09/02/2026-17907/privacy-act-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17970@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
 SUMMARY:FR close 2026-17970 — Agency Information Collection Activities: Submission for OMB Review\; Comment Re…
@@ -97,7 +88,7 @@ URL:https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17982@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261002
 SUMMARY:FR close 2026-17982 — Submission for Office of Management and Budget Review\; TANF Contingency Fund Ap…
@@ -106,7 +97,7 @@ URL:https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-f
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18060@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
 SUMMARY:FR close 2026-18060 — Agency Information Collection Request. 30-Day Public Comment Request
@@ -115,7 +106,7 @@ URL:https://www.federalregister.gov/documents/2026/09/03/2026-18060/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18115@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
 SUMMARY:FR close 2026-18115 — Agency Information Collection Activities: Submission to OMB for Review and Appr…
@@ -124,7 +115,7 @@ URL:https://www.federalregister.gov/documents/2026/09/04/2026-18115/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18167@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
 SUMMARY:FR close 2026-18167 — Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals
@@ -133,7 +124,7 @@ URL:https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bur
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16368@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-16368 — Medicare Program\; Regulatory Alignment for Predictable and Immediate Device (RA…
@@ -142,7 +133,7 @@ URL:https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16386@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-16386 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -151,7 +142,7 @@ URL:https://www.federalregister.gov/documents/2026/08/12/2026-16386/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16455@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-16455 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -160,7 +151,7 @@ URL:https://www.federalregister.gov/documents/2026/08/13/2026-16455/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16638@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-16638 — Container Closure Systems for Human Drugs and Biological Products\; Draft Guidan…
@@ -169,7 +160,7 @@ URL:https://www.federalregister.gov/documents/2026/08/14/2026-16638/container-cl
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18528@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-18528 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -178,7 +169,7 @@ URL:https://www.federalregister.gov/documents/2026/09/11/2026-18528/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18611@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261013
 SUMMARY:FR close 2026-18611 — Agency Information Collection Activities: Submission for OMB Review\; Comment Re…
@@ -187,7 +178,7 @@ URL:https://www.federalregister.gov/documents/2026/09/11/2026-18611/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18691@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
 SUMMARY:FR close 2026-18691 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -196,7 +187,7 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18691/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18727@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
 SUMMARY:FR close 2026-18727 — Solicitation for Nominations To Serve on the Family Caregiving Advisory Council
@@ -205,7 +196,7 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18727/solicitation
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18728@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261014
 SUMMARY:FR close 2026-18728 — Solicitation for Nominations To Serve on the Advisory Council To Support Grandp…
@@ -214,7 +205,7 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18728/solicitation
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16712@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-16712 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -223,7 +214,7 @@ URL:https://www.federalregister.gov/documents/2026/08/17/2026-16712/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16713@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-16713 — Determination of Regulatory Review Period for Purposes of Patent Extension\; BIZ…
@@ -232,7 +223,7 @@ URL:https://www.federalregister.gov/documents/2026/08/17/2026-16713/determinatio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16714@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-16714 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -241,7 +232,7 @@ URL:https://www.federalregister.gov/documents/2026/08/17/2026-16714/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16728@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-16728 — Gastroenterology-Urology Devices\; Reclassification of Diagnostic Endoscopic Lig…
@@ -250,7 +241,7 @@ URL:https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroentero
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16729@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-16729 — Medical Devices\; Classification of Accessories Distinct From Other Devices\; Pro…
@@ -259,7 +250,7 @@ URL:https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18946@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-18946 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -268,7 +259,7 @@ URL:https://www.federalregister.gov/documents/2026/09/16/2026-18946/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18950@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
 SUMMARY:FR close 2026-18950 — Agency Information Collection Request\; 30-Day Public Comment Request
@@ -277,7 +268,7 @@ URL:https://www.federalregister.gov/documents/2026/09/16/2026-18950/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16353@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261017
 SUMMARY:FR close 2026-16353 — Reauthorization of the Generic Drug User Fee Amendments\; Public Meeting\; Reques…
@@ -286,7 +277,7 @@ URL:https://www.federalregister.gov/documents/2026/08/11/2026-16353/reauthorizat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16837@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-16837 — Determining Whether To Submit an ANDA or a 505(b)(2) Application\; Draft Guidanc…
@@ -295,7 +286,7 @@ URL:https://www.federalregister.gov/documents/2026/08/18/2026-16837/determining-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16871@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-16871 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
@@ -304,7 +295,7 @@ URL:https://www.federalregister.gov/documents/2026/08/19/2026-16871/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16912@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-16912 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
@@ -313,7 +304,7 @@ URL:https://www.federalregister.gov/documents/2026/08/19/2026-16912/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17037@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-17037 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -322,7 +313,7 @@ URL:https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17040@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-17040 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -331,7 +322,7 @@ URL:https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18646@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261019
 SUMMARY:FR close 2026-18646 — Draft NIH Biosafety Policy for Research Involving Biohazards
@@ -340,7 +331,7 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18646/draft-nih-bi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17112@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 SUMMARY:FR close 2026-17112 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -349,7 +340,7 @@ URL:https://www.federalregister.gov/documents/2026/08/21/2026-17112/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17128@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 SUMMARY:FR close 2026-17128 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -358,7 +349,7 @@ URL:https://www.federalregister.gov/documents/2026/08/21/2026-17128/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17190@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 SUMMARY:FR close 2026-17190 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
@@ -367,7 +358,7 @@ URL:https://www.federalregister.gov/documents/2026/08/21/2026-17190/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19252@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261021
 SUMMARY:FR close 2026-19252 — Request for Information on Electromagnetic Fields (EMFs)\, Radiofrequency (RF) R…
@@ -376,7 +367,7 @@ URL:https://www.federalregister.gov/documents/2026/09/21/2026-19252/request-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19284@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261021
 SUMMARY:FR close 2026-19284 — Agency Information Collection Activities\; Submission for Office of Management a…
@@ -385,7 +376,7 @@ URL:https://www.federalregister.gov/documents/2026/09/21/2026-19284/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19339@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261022
 SUMMARY:FR close 2026-19339 — Agency Information Collection Activities: Submission to OMB for Review and Appr…
@@ -394,7 +385,7 @@ URL:https://www.federalregister.gov/documents/2026/09/22/2026-19339/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19362@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261022
 SUMMARY:FR close 2026-19362 — Agency Information Collection Activities: Submission to OMB for Review and Appr…
@@ -403,7 +394,7 @@ URL:https://www.federalregister.gov/documents/2026/09/22/2026-19362/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17222@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261023
 SUMMARY:FR close 2026-17222 — Product-Specific Guidances\; Draft and Revised Draft Guidances for Industry\; Ava…
@@ -412,7 +403,7 @@ URL:https://www.federalregister.gov/documents/2026/08/24/2026-17222/product-spec
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17377@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261026
 SUMMARY:FR close 2026-17377 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -421,7 +412,7 @@ URL:https://www.federalregister.gov/documents/2026/08/26/2026-17377/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17484@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261026
 SUMMARY:FR close 2026-17484 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -430,7 +421,7 @@ URL:https://www.federalregister.gov/documents/2026/08/27/2026-17484/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17598@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:FR close 2026-17598 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -439,7 +430,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17598/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17599@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:FR close 2026-17599 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -448,7 +439,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17599/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17605@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:FR close 2026-17605 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -457,7 +448,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17605/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17624@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:FR close 2026-17624 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -466,7 +457,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17624/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17625@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
 SUMMARY:FR close 2026-17625 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
@@ -475,7 +466,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17625/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17675@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
 SUMMARY:FR close 2026-17675 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -484,7 +475,7 @@ URL:https://www.federalregister.gov/documents/2026/08/31/2026-17675/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17676@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261030
 SUMMARY:FR close 2026-17676 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -493,7 +484,7 @@ URL:https://www.federalregister.gov/documents/2026/08/31/2026-17676/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17856@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261102
 SUMMARY:FR close 2026-17856 — Emergency Office of Management and Budget Review and Public Comment: Questionna…
@@ -502,7 +493,7 @@ URL:https://www.federalregister.gov/documents/2026/09/01/2026-17856/emergency-of
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17875@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261102
 SUMMARY:FR close 2026-17875 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -511,7 +502,7 @@ URL:https://www.federalregister.gov/documents/2026/09/01/2026-17875/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18133@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261103
 SUMMARY:FR close 2026-18133 — Advancing Development of Botanical Drug Products\; Request for Information
@@ -520,7 +511,7 @@ URL:https://www.federalregister.gov/documents/2026/09/04/2026-18133/advancing-de
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18217@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
 SUMMARY:FR close 2026-18217 — Proposed Data Collection Submitted for Public Comment and Recommendations
@@ -529,7 +520,7 @@ URL:https://www.federalregister.gov/documents/2026/09/08/2026-18217/proposed-dat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18235@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
 SUMMARY:FR close 2026-18235 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
@@ -538,7 +529,7 @@ URL:https://www.federalregister.gov/documents/2026/09/08/2026-18235/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18299@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
 SUMMARY:FR close 2026-18299 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -547,7 +538,7 @@ URL:https://www.federalregister.gov/documents/2026/09/09/2026-18299/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18333@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261109
 SUMMARY:FR close 2026-18333 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -556,7 +547,7 @@ URL:https://www.federalregister.gov/documents/2026/09/09/2026-18333/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18529@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261110
 SUMMARY:FR close 2026-18529 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -565,7 +556,7 @@ URL:https://www.federalregister.gov/documents/2026/09/11/2026-18529/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18553@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261110
 SUMMARY:FR close 2026-18553 — Agency Information Collection Activities: Proposed Collection: Public Comment R…
@@ -574,7 +565,7 @@ URL:https://www.federalregister.gov/documents/2026/09/11/2026-18553/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18649@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261113
 SUMMARY:FR close 2026-18649 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -583,7 +574,7 @@ URL:https://www.federalregister.gov/documents/2026/09/14/2026-18649/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18805@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261113
 SUMMARY:FR close 2026-18805 — Statistical Considerations for the Design of Rare Disease Clinical Investigatio…
@@ -592,7 +583,7 @@ URL:https://www.federalregister.gov/documents/2026/09/15/2026-18805/statistical-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18841@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261116
 SUMMARY:FR close 2026-18841 — Proposed Information Collection Activity\; Multistate Financial Institution Data…
@@ -601,7 +592,7 @@ URL:https://www.federalregister.gov/documents/2026/09/15/2026-18841/proposed-inf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19023@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261116
 SUMMARY:FR close 2026-19023 — Proposed Information Collection Activity\; Diaper Distribution Demonstration and…
@@ -610,7 +601,7 @@ URL:https://www.federalregister.gov/documents/2026/09/17/2026-19023/proposed-inf
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19141@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261117
 SUMMARY:FR close 2026-19141 — Target Animal Safety Evaluation for Veterinary Monoclonal Antibody Products\; Dr…
@@ -619,7 +610,7 @@ URL:https://www.federalregister.gov/documents/2026/09/18/2026-19141/target-anima
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19166@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261117
 SUMMARY:FR close 2026-19166 — Biosimilar User Fee Act III Future Needs in the Development of Interchangeable …
@@ -628,7 +619,7 @@ URL:https://www.federalregister.gov/documents/2026/09/18/2026-19166/biosimilar-u
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19181@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261117
 SUMMARY:FR close 2026-19181 — Electronic Submission Template for Medical Device Premarket Approval Applicatio…
@@ -637,7 +628,7 @@ URL:https://www.federalregister.gov/documents/2026/09/18/2026-19181/electronic-s
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16960@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261118
 SUMMARY:FR close 2026-16960 — Potency Assessment of Active Immunotherapy Products\; Draft Guidance for Industr…
@@ -646,7 +637,7 @@ URL:https://www.federalregister.gov/documents/2026/08/20/2026-16960/potency-asse
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19271@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261120
 SUMMARY:FR close 2026-19271 — Data Intermediaries and Approaches To Strengthen Public Health Data Exchange
@@ -655,7 +646,7 @@ URL:https://www.federalregister.gov/documents/2026/09/21/2026-19271/data-interme
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19281@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261120
 SUMMARY:FR close 2026-19281 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -664,7 +655,7 @@ URL:https://www.federalregister.gov/documents/2026/09/21/2026-19281/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19282@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261120
 SUMMARY:FR close 2026-19282 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -673,7 +664,7 @@ URL:https://www.federalregister.gov/documents/2026/09/21/2026-19282/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19283@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261120
 SUMMARY:FR close 2026-19283 — Agency Information Collection Activities\; Proposed Collection\; Comment Request\;…
@@ -682,7 +673,7 @@ URL:https://www.federalregister.gov/documents/2026/09/21/2026-19283/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19366@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261123
 SUMMARY:FR close 2026-19366 — Agency Information Collection Activities: Proposed Collection\; Comment Request
@@ -691,7 +682,7 @@ URL:https://www.federalregister.gov/documents/2026/09/22/2026-19366/agency-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17580@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261127
 SUMMARY:FR close 2026-17580 — Compounding Animal Drugs From Bulk Drug Substances: Compounding Under CGMP in F…
@@ -700,7 +691,7 @@ URL:https://www.federalregister.gov/documents/2026/08/28/2026-17580/compounding-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-17961@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261201
 SUMMARY:FR close 2026-17961 — Pharmacokinetics in Patients With Impaired Hepatic Function: Study Design\, Data…
@@ -709,7 +700,7 @@ URL:https://www.federalregister.gov/documents/2026/09/02/2026-17961/pharmacokine
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19349@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261207
 SUMMARY:FR close 2026-19349 — Nonclinical Testing Terminology
@@ -718,7 +709,7 @@ URL:https://www.federalregister.gov/documents/2026/09/22/2026-19349/nonclinical-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-19350@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261207
 SUMMARY:FR close 2026-19350 — Nonclinical Testing Terminology
@@ -727,7 +718,7 @@ URL:https://www.federalregister.gov/documents/2026/09/22/2026-19350/nonclinical-
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-16296@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261209
 SUMMARY:FR close 2026-16296 — Substances Generally Recognized as Safe
@@ -736,7 +727,7 @@ URL:https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-g
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18297@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270308
 SUMMARY:FR close 2026-18297 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANK…
@@ -745,7 +736,7 @@ URL:https://www.federalregister.gov/documents/2026/09/09/2026-18297/determinatio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18298@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270308
 SUMMARY:FR close 2026-18298 — Determination of Regulatory Review Period for Purposes of Patent Extension\; ANZ…
@@ -754,7 +745,7 @@ URL:https://www.federalregister.gov/documents/2026/09/09/2026-18298/determinatio
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-18300@fr-deadline-board.grokbotops
-DTSTAMP:20260922T132813Z
+DTSTAMP:20260923T133206Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270308
 SUMMARY:FR close 2026-18300 — Determination of Regulatory Review Period for Purposes of Patent Extension\; AND…
